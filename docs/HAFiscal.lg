@@ -114,9 +114,9 @@ File: HAFiscal5.html
 File: HAFiscal.tmp
 File: HAFiscal6.html
 File: HAFiscal7.html
-File: HAFiscal.tmp
-File: HAFiscal.tmp
 File: HAFiscal8.html
+File: HAFiscal.tmp
+File: HAFiscal.tmp
 File: HAFiscal9.html
 File: HAFiscal10.html
 File: HAFiscal11.html
@@ -125,18 +125,19 @@ File: HAFiscal13.html
 File: HAFiscal14.html
 File: HAFiscal15.html
 File: HAFiscal16.html
-File: HAFiscal.tmp
 File: HAFiscal17.html
 File: HAFiscal.tmp
 File: HAFiscal18.html
 File: HAFiscal.tmp
-File: HAFiscal.tmp
 File: HAFiscal19.html
+File: HAFiscal.tmp
+File: HAFiscal.tmp
 File: HAFiscal20.html
 File: HAFiscal21.html
 File: HAFiscal22.html
 File: HAFiscal23.html
 File: HAFiscal24.html
+File: HAFiscal25.html
 Font_Class(4,"4"): <span  class="small-caps"></span>
 Css: p{margin-top:0;margin-bottom:0}
 Css: p.indent{text-indent:0;}
@@ -334,225 +335,228 @@ Css: td.equation { margin-top:5em; margin-bottom:5em; }
 --- needs --- HAFiscal.idv[18] ==> HAFiscal16x.svg ---
 --- needs --- HAFiscal.idv[19] ==> HAFiscal17x.svg ---
 --- needs --- HAFiscal.idv[20] ==> HAFiscal18x.svg ---
---- needs --- HAFiscal.idv[21] ==> HAFiscal19x.svg ---
---- needs --- HAFiscal.idv[22] ==> HAFiscal20x.svg ---
---- needs --- HAFiscal.idv[23] ==> HAFiscal21x.svg ---
---- needs --- HAFiscal.idv[24] ==> HAFiscal22x.svg ---
---- needs --- HAFiscal.idv[25] ==> HAFiscal23x.svg ---
---- needs --- HAFiscal.idv[27] ==> HAFiscal24x.svg ---
---- needs --- HAFiscal.idv[28] ==> HAFiscal25x.svg ---
---- needs --- HAFiscal.idv[29] ==> HAFiscal26x.svg ---
---- needs --- HAFiscal.idv[30] ==> HAFiscal27x.svg ---
---- needs --- HAFiscal.idv[32] ==> HAFiscal28x.svg ---
---- needs --- HAFiscal.idv[33] ==> HAFiscal29x.svg ---
---- needs --- HAFiscal.idv[34] ==> HAFiscal30x.svg ---
---- needs --- HAFiscal.idv[35] ==> HAFiscal31x.svg ---
---- needs --- HAFiscal.idv[36] ==> HAFiscal32x.svg ---
---- needs --- HAFiscal.idv[37] ==> HAFiscal33x.svg ---
---- needs --- HAFiscal.idv[38] ==> HAFiscal34x.svg ---
---- needs --- HAFiscal.idv[39] ==> HAFiscal35x.svg ---
---- needs --- HAFiscal.idv[40] ==> HAFiscal36x.svg ---
---- needs --- HAFiscal.idv[41] ==> HAFiscal37x.svg ---
---- needs --- HAFiscal.idv[42] ==> HAFiscal38x.svg ---
---- needs --- HAFiscal.idv[43] ==> HAFiscal39x.svg ---
---- needs --- HAFiscal.idv[44] ==> HAFiscal40x.svg ---
---- needs --- HAFiscal.idv[45] ==> HAFiscal41x.svg ---
---- needs --- HAFiscal.idv[46] ==> HAFiscal42x.svg ---
---- needs --- HAFiscal.idv[48] ==> HAFiscal43x.svg ---
---- needs --- HAFiscal.idv[49] ==> HAFiscal44x.svg ---
---- needs --- HAFiscal.idv[50] ==> HAFiscal45x.svg ---
---- needs --- HAFiscal.idv[52] ==> HAFiscal46x.svg ---
---- needs --- HAFiscal.idv[53] ==> HAFiscal47x.svg ---
---- needs --- HAFiscal.idv[54] ==> HAFiscal48x.svg ---
---- needs --- HAFiscal.idv[55] ==> HAFiscal49x.svg ---
---- needs --- HAFiscal.idv[56] ==> HAFiscal50x.svg ---
---- needs --- HAFiscal.idv[58] ==> HAFiscal51x.svg ---
---- needs --- HAFiscal.idv[59] ==> HAFiscal52x.svg ---
---- needs --- HAFiscal.idv[60] ==> HAFiscal53x.svg ---
---- needs --- HAFiscal.idv[61] ==> HAFiscal54x.svg ---
---- needs --- HAFiscal.idv[62] ==> HAFiscal55x.svg ---
---- needs --- HAFiscal.idv[64] ==> HAFiscal56x.svg ---
---- needs --- HAFiscal.idv[65] ==> HAFiscal57x.svg ---
---- needs --- HAFiscal.idv[67] ==> HAFiscal58x.svg ---
---- needs --- HAFiscal.idv[68] ==> HAFiscal59x.svg ---
---- needs --- HAFiscal.idv[70] ==> HAFiscal60x.svg ---
---- needs --- HAFiscal.idv[72] ==> HAFiscal61x.svg ---
---- needs --- HAFiscal.idv[73] ==> HAFiscal62x.svg ---
---- needs --- HAFiscal.idv[75] ==> HAFiscal63x.svg ---
---- needs --- HAFiscal.idv[76] ==> HAFiscal64x.svg ---
---- needs --- HAFiscal.idv[77] ==> HAFiscal65x.svg ---
---- needs --- HAFiscal.idv[78] ==> HAFiscal66x.svg ---
---- needs --- HAFiscal.idv[80] ==> HAFiscal67x.svg ---
---- needs --- HAFiscal.idv[81] ==> HAFiscal68x.svg ---
---- needs --- HAFiscal.idv[82] ==> HAFiscal69x.svg ---
---- needs --- HAFiscal.idv[83] ==> HAFiscal70x.svg ---
---- needs --- HAFiscal.idv[85] ==> HAFiscal71x.svg ---
---- needs --- HAFiscal.idv[86] ==> HAFiscal72x.svg ---
---- needs --- HAFiscal.idv[87] ==> HAFiscal73x.svg ---
---- needs --- HAFiscal.idv[89] ==> HAFiscal74x.svg ---
---- needs --- HAFiscal.idv[90] ==> HAFiscal75x.svg ---
---- needs --- HAFiscal.idv[91] ==> HAFiscal76x.svg ---
---- needs --- HAFiscal.idv[92] ==> HAFiscal77x.svg ---
---- needs --- HAFiscal.idv[94] ==> HAFiscal78x.svg ---
---- needs --- HAFiscal.idv[96] ==> HAFiscal79x.svg ---
---- needs --- HAFiscal.idv[97] ==> HAFiscal80x.svg ---
---- needs --- HAFiscal.idv[98] ==> HAFiscal81x.svg ---
---- needs --- HAFiscal.idv[100] ==> HAFiscal82x.svg ---
---- needs --- HAFiscal.idv[101] ==> HAFiscal83x.svg ---
---- needs --- HAFiscal.idv[102] ==> HAFiscal84x.svg ---
---- needs --- HAFiscal.idv[104] ==> HAFiscal85x.svg ---
---- needs --- HAFiscal.idv[105] ==> HAFiscal86x.svg ---
---- needs --- HAFiscal.idv[106] ==> HAFiscal87x.svg ---
---- needs --- HAFiscal.idv[108] ==> HAFiscal88x.svg ---
---- needs --- HAFiscal.idv[109] ==> HAFiscal89x.svg ---
---- needs --- HAFiscal.idv[111] ==> HAFiscal90x.svg ---
---- needs --- HAFiscal.idv[113] ==> HAFiscal91x.svg ---
---- needs --- HAFiscal.idv[115] ==> HAFiscal92x.svg ---
---- needs --- HAFiscal.idv[116] ==> HAFiscal93x.svg ---
---- needs --- HAFiscal.idv[117] ==> HAFiscal94x.svg ---
---- needs --- HAFiscal.idv[119] ==> HAFiscal95x.svg ---
---- needs --- HAFiscal.idv[121] ==> HAFiscal96x.svg ---
---- needs --- HAFiscal.idv[122] ==> HAFiscal97x.svg ---
---- needs --- HAFiscal.idv[123] ==> HAFiscal98x.svg ---
---- needs --- HAFiscal.idv[124] ==> HAFiscal99x.svg ---
---- needs --- HAFiscal.idv[125] ==> HAFiscal100x.svg ---
---- needs --- HAFiscal.idv[126] ==> HAFiscal101x.svg ---
---- needs --- HAFiscal.idv[127] ==> HAFiscal102x.svg ---
---- needs --- HAFiscal.idv[128] ==> HAFiscal103x.svg ---
---- needs --- HAFiscal.idv[129] ==> HAFiscal104x.svg ---
---- needs --- HAFiscal.idv[130] ==> HAFiscal105x.svg ---
---- needs --- HAFiscal.idv[132] ==> HAFiscal106x.svg ---
---- needs --- HAFiscal.idv[134] ==> HAFiscal107x.svg ---
---- needs --- HAFiscal.idv[135] ==> HAFiscal108x.svg ---
---- needs --- HAFiscal.idv[136] ==> HAFiscal109x.svg ---
---- needs --- HAFiscal.idv[137] ==> HAFiscal110x.svg ---
-l. 233 --- needs --- "pdf2svg "Subfiles/../Figures/LorenzPoints.pdf" "Subfiles/../Figures/LorenzPoints-.svg" " ---
+--- needs --- HAFiscal.idv[22] ==> HAFiscal19x.svg ---
+--- needs --- HAFiscal.idv[23] ==> HAFiscal20x.svg ---
+--- needs --- HAFiscal.idv[24] ==> HAFiscal21x.svg ---
+--- needs --- HAFiscal.idv[25] ==> HAFiscal22x.svg ---
+--- needs --- HAFiscal.idv[26] ==> HAFiscal23x.svg ---
+--- needs --- HAFiscal.idv[28] ==> HAFiscal24x.svg ---
+--- needs --- HAFiscal.idv[29] ==> HAFiscal25x.svg ---
+--- needs --- HAFiscal.idv[30] ==> HAFiscal26x.svg ---
+--- needs --- HAFiscal.idv[31] ==> HAFiscal27x.svg ---
+--- needs --- HAFiscal.idv[33] ==> HAFiscal28x.svg ---
+--- needs --- HAFiscal.idv[34] ==> HAFiscal29x.svg ---
+--- needs --- HAFiscal.idv[35] ==> HAFiscal30x.svg ---
+--- needs --- HAFiscal.idv[36] ==> HAFiscal31x.svg ---
+--- needs --- HAFiscal.idv[37] ==> HAFiscal32x.svg ---
+--- needs --- HAFiscal.idv[38] ==> HAFiscal33x.svg ---
+--- needs --- HAFiscal.idv[39] ==> HAFiscal34x.svg ---
+--- needs --- HAFiscal.idv[40] ==> HAFiscal35x.svg ---
+--- needs --- HAFiscal.idv[41] ==> HAFiscal36x.svg ---
+--- needs --- HAFiscal.idv[42] ==> HAFiscal37x.svg ---
+--- needs --- HAFiscal.idv[43] ==> HAFiscal38x.svg ---
+--- needs --- HAFiscal.idv[45] ==> HAFiscal39x.svg ---
+--- needs --- HAFiscal.idv[46] ==> HAFiscal40x.svg ---
+--- needs --- HAFiscal.idv[47] ==> HAFiscal41x.svg ---
+--- needs --- HAFiscal.idv[48] ==> HAFiscal42x.svg ---
+--- needs --- HAFiscal.idv[49] ==> HAFiscal43x.svg ---
+--- needs --- HAFiscal.idv[50] ==> HAFiscal44x.svg ---
+--- needs --- HAFiscal.idv[51] ==> HAFiscal45x.svg ---
+--- needs --- HAFiscal.idv[53] ==> HAFiscal46x.svg ---
+--- needs --- HAFiscal.idv[54] ==> HAFiscal47x.svg ---
+--- needs --- HAFiscal.idv[55] ==> HAFiscal48x.svg ---
+--- needs --- HAFiscal.idv[56] ==> HAFiscal49x.svg ---
+--- needs --- HAFiscal.idv[57] ==> HAFiscal50x.svg ---
+--- needs --- HAFiscal.idv[59] ==> HAFiscal51x.svg ---
+--- needs --- HAFiscal.idv[60] ==> HAFiscal52x.svg ---
+--- needs --- HAFiscal.idv[61] ==> HAFiscal53x.svg ---
+--- needs --- HAFiscal.idv[62] ==> HAFiscal54x.svg ---
+--- needs --- HAFiscal.idv[63] ==> HAFiscal55x.svg ---
+File: Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Figures/AggMPC_LotteryWin.svg
+File: Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Figures/LiquWealth_Distribution.svg
+--- needs --- HAFiscal.idv[65] ==> HAFiscal56x.svg ---
+--- needs --- HAFiscal.idv[66] ==> HAFiscal57x.svg ---
+--- needs --- HAFiscal.idv[68] ==> HAFiscal58x.svg ---
+--- needs --- HAFiscal.idv[69] ==> HAFiscal59x.svg ---
+--- needs --- HAFiscal.idv[71] ==> HAFiscal60x.svg ---
+--- needs --- HAFiscal.idv[73] ==> HAFiscal61x.svg ---
+--- needs --- HAFiscal.idv[74] ==> HAFiscal62x.svg ---
+--- needs --- HAFiscal.idv[76] ==> HAFiscal63x.svg ---
+--- needs --- HAFiscal.idv[77] ==> HAFiscal64x.svg ---
+--- needs --- HAFiscal.idv[78] ==> HAFiscal65x.svg ---
+--- needs --- HAFiscal.idv[79] ==> HAFiscal66x.svg ---
+--- needs --- HAFiscal.idv[81] ==> HAFiscal67x.svg ---
+--- needs --- HAFiscal.idv[82] ==> HAFiscal68x.svg ---
+--- needs --- HAFiscal.idv[83] ==> HAFiscal69x.svg ---
+--- needs --- HAFiscal.idv[84] ==> HAFiscal70x.svg ---
+--- needs --- HAFiscal.idv[86] ==> HAFiscal71x.svg ---
+--- needs --- HAFiscal.idv[87] ==> HAFiscal72x.svg ---
+--- needs --- HAFiscal.idv[88] ==> HAFiscal73x.svg ---
+--- needs --- HAFiscal.idv[90] ==> HAFiscal74x.svg ---
+--- needs --- HAFiscal.idv[91] ==> HAFiscal75x.svg ---
+--- needs --- HAFiscal.idv[92] ==> HAFiscal76x.svg ---
+--- needs --- HAFiscal.idv[93] ==> HAFiscal77x.svg ---
+--- needs --- HAFiscal.idv[95] ==> HAFiscal78x.svg ---
+--- needs --- HAFiscal.idv[97] ==> HAFiscal79x.svg ---
+--- needs --- HAFiscal.idv[98] ==> HAFiscal80x.svg ---
+--- needs --- HAFiscal.idv[99] ==> HAFiscal81x.svg ---
+--- needs --- HAFiscal.idv[101] ==> HAFiscal82x.svg ---
+--- needs --- HAFiscal.idv[102] ==> HAFiscal83x.svg ---
+--- needs --- HAFiscal.idv[103] ==> HAFiscal84x.svg ---
+--- needs --- HAFiscal.idv[105] ==> HAFiscal85x.svg ---
+--- needs --- HAFiscal.idv[106] ==> HAFiscal86x.svg ---
+--- needs --- HAFiscal.idv[107] ==> HAFiscal87x.svg ---
+--- needs --- HAFiscal.idv[109] ==> HAFiscal88x.svg ---
+--- needs --- HAFiscal.idv[110] ==> HAFiscal89x.svg ---
+--- needs --- HAFiscal.idv[112] ==> HAFiscal90x.svg ---
+--- needs --- HAFiscal.idv[114] ==> HAFiscal91x.svg ---
+--- needs --- HAFiscal.idv[116] ==> HAFiscal92x.svg ---
+--- needs --- HAFiscal.idv[117] ==> HAFiscal93x.svg ---
+--- needs --- HAFiscal.idv[118] ==> HAFiscal94x.svg ---
+--- needs --- HAFiscal.idv[120] ==> HAFiscal95x.svg ---
+--- needs --- HAFiscal.idv[122] ==> HAFiscal96x.svg ---
+--- needs --- HAFiscal.idv[123] ==> HAFiscal97x.svg ---
+--- needs --- HAFiscal.idv[124] ==> HAFiscal98x.svg ---
+--- needs --- HAFiscal.idv[125] ==> HAFiscal99x.svg ---
+--- needs --- HAFiscal.idv[126] ==> HAFiscal100x.svg ---
+--- needs --- HAFiscal.idv[127] ==> HAFiscal101x.svg ---
+--- needs --- HAFiscal.idv[128] ==> HAFiscal102x.svg ---
+--- needs --- HAFiscal.idv[129] ==> HAFiscal103x.svg ---
+--- needs --- HAFiscal.idv[130] ==> HAFiscal104x.svg ---
+--- needs --- HAFiscal.idv[131] ==> HAFiscal105x.svg ---
+--- needs --- HAFiscal.idv[133] ==> HAFiscal106x.svg ---
+--- needs --- HAFiscal.idv[135] ==> HAFiscal107x.svg ---
+--- needs --- HAFiscal.idv[136] ==> HAFiscal108x.svg ---
+--- needs --- HAFiscal.idv[137] ==> HAFiscal109x.svg ---
+--- needs --- HAFiscal.idv[138] ==> HAFiscal110x.svg ---
 File: Subfiles/../Figures/LorenzPoints-.svg
---- needs --- HAFiscal.idv[139] ==> HAFiscal111x.svg ---
---- needs --- HAFiscal.idv[141] ==> HAFiscal112x.svg ---
---- needs --- HAFiscal.idv[142] ==> HAFiscal113x.svg ---
---- needs --- HAFiscal.idv[143] ==> HAFiscal114x.svg ---
---- needs --- HAFiscal.idv[145] ==> HAFiscal115x.svg ---
---- needs --- HAFiscal.idv[147] ==> HAFiscal116x.svg ---
---- needs --- HAFiscal.idv[148] ==> HAFiscal117x.svg ---
---- needs --- HAFiscal.idv[149] ==> HAFiscal118x.svg ---
---- needs --- HAFiscal.idv[150] ==> HAFiscal119x.svg ---
---- needs --- HAFiscal.idv[152] ==> HAFiscal120x.svg ---
---- needs --- HAFiscal.idv[153] ==> HAFiscal121x.svg ---
---- needs --- HAFiscal.idv[154] ==> HAFiscal122x.svg ---
---- needs --- HAFiscal.idv[156] ==> HAFiscal123x.svg ---
---- needs --- HAFiscal.idv[157] ==> HAFiscal124x.svg ---
---- needs --- HAFiscal.idv[158] ==> HAFiscal125x.svg ---
---- needs --- HAFiscal.idv[159] ==> HAFiscal126x.svg ---
---- needs --- HAFiscal.idv[160] ==> HAFiscal127x.svg ---
---- needs --- HAFiscal.idv[162] ==> HAFiscal128x.svg ---
---- needs --- HAFiscal.idv[164] ==> HAFiscal129x.svg ---
---- needs --- HAFiscal.idv[165] ==> HAFiscal130x.svg ---
---- needs --- HAFiscal.idv[166] ==> HAFiscal131x.svg ---
---- needs --- HAFiscal.idv[167] ==> HAFiscal132x.svg ---
---- needs --- HAFiscal.idv[168] ==> HAFiscal133x.svg ---
---- needs --- HAFiscal.idv[169] ==> HAFiscal134x.svg ---
---- needs --- HAFiscal.idv[170] ==> HAFiscal135x.svg ---
---- needs --- HAFiscal.idv[171] ==> HAFiscal136x.svg ---
---- needs --- HAFiscal.idv[172] ==> HAFiscal137x.svg ---
---- needs --- HAFiscal.idv[173] ==> HAFiscal138x.svg ---
---- needs --- HAFiscal.idv[174] ==> HAFiscal139x.svg ---
---- needs --- HAFiscal.idv[175] ==> HAFiscal140x.svg ---
---- needs --- HAFiscal.idv[176] ==> HAFiscal141x.svg ---
---- needs --- HAFiscal.idv[177] ==> HAFiscal142x.svg ---
---- needs --- HAFiscal.idv[178] ==> HAFiscal143x.svg ---
---- needs --- HAFiscal.idv[180] ==> HAFiscal144x.svg ---
---- needs --- HAFiscal.idv[181] ==> HAFiscal145x.svg ---
---- needs --- HAFiscal.idv[182] ==> HAFiscal146x.svg ---
---- needs --- HAFiscal.idv[183] ==> HAFiscal147x.svg ---
---- needs --- HAFiscal.idv[184] ==> HAFiscal148x.svg ---
---- needs --- HAFiscal.idv[185] ==> HAFiscal149x.svg ---
---- needs --- HAFiscal.idv[187] ==> HAFiscal150x.svg ---
---- needs --- HAFiscal.idv[188] ==> HAFiscal151x.svg ---
---- needs --- HAFiscal.idv[190] ==> HAFiscal152x.svg ---
---- needs --- HAFiscal.idv[192] ==> HAFiscal153x.svg ---
---- needs --- HAFiscal.idv[193] ==> HAFiscal154x.svg ---
---- needs --- HAFiscal.idv[195] ==> HAFiscal155x.svg ---
---- needs --- HAFiscal.idv[196] ==> HAFiscal156x.svg ---
---- needs --- HAFiscal.idv[198] ==> HAFiscal157x.svg ---
---- needs --- HAFiscal.idv[200] ==> HAFiscal158x.svg ---
---- needs --- HAFiscal.idv[201] ==> HAFiscal159x.svg ---
---- needs --- HAFiscal.idv[203] ==> HAFiscal160x.svg ---
---- needs --- HAFiscal.idv[204] ==> HAFiscal161x.svg ---
---- needs --- HAFiscal.idv[205] ==> HAFiscal162x.svg ---
---- needs --- HAFiscal.idv[206] ==> HAFiscal163x.svg ---
---- needs --- HAFiscal.idv[207] ==> HAFiscal164x.svg ---
---- needs --- HAFiscal.idv[208] ==> HAFiscal165x.svg ---
---- needs --- HAFiscal.idv[209] ==> HAFiscal166x.svg ---
---- needs --- HAFiscal.idv[210] ==> HAFiscal167x.svg ---
---- needs --- HAFiscal.idv[212] ==> HAFiscal168x.svg ---
---- needs --- HAFiscal.idv[214] ==> HAFiscal169x.svg ---
---- needs --- HAFiscal.idv[216] ==> HAFiscal170x.svg ---
---- needs --- HAFiscal.idv[217] ==> HAFiscal171x.svg ---
---- needs --- HAFiscal.idv[219] ==> HAFiscal172x.svg ---
---- needs --- HAFiscal.idv[220] ==> HAFiscal173x.svg ---
---- needs --- HAFiscal.idv[221] ==> HAFiscal174x.svg ---
---- needs --- HAFiscal.idv[223] ==> HAFiscal175x.svg ---
---- needs --- HAFiscal.idv[225] ==> HAFiscal176x.svg ---
---- needs --- HAFiscal.idv[226] ==> HAFiscal177x.svg ---
---- needs --- HAFiscal.idv[228] ==> HAFiscal178x.svg ---
---- needs --- HAFiscal.idv[229] ==> HAFiscal179x.svg ---
---- needs --- HAFiscal.idv[230] ==> HAFiscal180x.svg ---
---- needs --- HAFiscal.idv[231] ==> HAFiscal181x.svg ---
---- needs --- HAFiscal.idv[232] ==> HAFiscal182x.svg ---
---- needs --- HAFiscal.idv[233] ==> HAFiscal183x.svg ---
---- needs --- HAFiscal.idv[234] ==> HAFiscal184x.svg ---
---- needs --- HAFiscal.idv[235] ==> HAFiscal185x.svg ---
---- needs --- HAFiscal.idv[236] ==> HAFiscal186x.svg ---
---- needs --- HAFiscal.idv[237] ==> HAFiscal187x.svg ---
---- needs --- HAFiscal.idv[238] ==> HAFiscal188x.svg ---
---- needs --- HAFiscal.idv[239] ==> HAFiscal189x.svg ---
---- needs --- HAFiscal.idv[240] ==> HAFiscal190x.svg ---
---- needs --- HAFiscal.idv[241] ==> HAFiscal191x.svg ---
---- needs --- HAFiscal.idv[242] ==> HAFiscal192x.svg ---
---- needs --- HAFiscal.idv[243] ==> HAFiscal193x.svg ---
---- needs --- HAFiscal.idv[244] ==> HAFiscal194x.svg ---
---- needs --- HAFiscal.idv[245] ==> HAFiscal195x.svg ---
---- needs --- HAFiscal.idv[246] ==> HAFiscal196x.svg ---
---- needs --- HAFiscal.idv[247] ==> HAFiscal197x.svg ---
---- needs --- HAFiscal.idv[248] ==> HAFiscal198x.svg ---
---- needs --- HAFiscal.idv[249] ==> HAFiscal199x.svg ---
---- needs --- HAFiscal.idv[251] ==> HAFiscal200x.svg ---
---- needs --- HAFiscal.idv[253] ==> HAFiscal201x.svg ---
-l. 122 --- needs --- "pdf2svg "Subfiles/../Figures/LorenzPoints_robustness_CRRA.pdf" "Subfiles/../Figures/LorenzPoints_robustness_CRRA-.svg" " ---
+--- needs --- HAFiscal.idv[140] ==> HAFiscal111x.svg ---
+--- needs --- HAFiscal.idv[142] ==> HAFiscal112x.svg ---
+--- needs --- HAFiscal.idv[143] ==> HAFiscal113x.svg ---
+--- needs --- HAFiscal.idv[144] ==> HAFiscal114x.svg ---
+--- needs --- HAFiscal.idv[146] ==> HAFiscal115x.svg ---
+--- needs --- HAFiscal.idv[148] ==> HAFiscal116x.svg ---
+--- needs --- HAFiscal.idv[149] ==> HAFiscal117x.svg ---
+--- needs --- HAFiscal.idv[150] ==> HAFiscal118x.svg ---
+--- needs --- HAFiscal.idv[151] ==> HAFiscal119x.svg ---
+File: Subfiles/../Code/HA-Models/FromPandemicCode/Figures/recession_Check_relrecession.svg
+File: Code/HA-Models/FromPandemicCode/Figures/recession_UI_relrecession.svg
+File: Code/HA-Models/FromPandemicCode/Figures/recession_taxcut_relrecession.svg
+--- needs --- HAFiscal.idv[153] ==> HAFiscal120x.svg ---
+--- needs --- HAFiscal.idv[154] ==> HAFiscal121x.svg ---
+--- needs --- HAFiscal.idv[155] ==> HAFiscal122x.svg ---
+--- needs --- HAFiscal.idv[157] ==> HAFiscal123x.svg ---
+--- needs --- HAFiscal.idv[158] ==> HAFiscal124x.svg ---
+--- needs --- HAFiscal.idv[159] ==> HAFiscal125x.svg ---
+--- needs --- HAFiscal.idv[160] ==> HAFiscal126x.svg ---
+--- needs --- HAFiscal.idv[161] ==> HAFiscal127x.svg ---
+File: Code/HA-Models/FromPandemicCode/Figures/Cummulative_multipliers.svg
+--- needs --- HAFiscal.idv[163] ==> HAFiscal128x.svg ---
+--- needs --- HAFiscal.idv[165] ==> HAFiscal129x.svg ---
+--- needs --- HAFiscal.idv[166] ==> HAFiscal130x.svg ---
+--- needs --- HAFiscal.idv[167] ==> HAFiscal131x.svg ---
+--- needs --- HAFiscal.idv[168] ==> HAFiscal132x.svg ---
+--- needs --- HAFiscal.idv[169] ==> HAFiscal133x.svg ---
+--- needs --- HAFiscal.idv[170] ==> HAFiscal134x.svg ---
+--- needs --- HAFiscal.idv[171] ==> HAFiscal135x.svg ---
+--- needs --- HAFiscal.idv[172] ==> HAFiscal136x.svg ---
+--- needs --- HAFiscal.idv[173] ==> HAFiscal137x.svg ---
+--- needs --- HAFiscal.idv[174] ==> HAFiscal138x.svg ---
+--- needs --- HAFiscal.idv[175] ==> HAFiscal139x.svg ---
+--- needs --- HAFiscal.idv[176] ==> HAFiscal140x.svg ---
+--- needs --- HAFiscal.idv[177] ==> HAFiscal141x.svg ---
+--- needs --- HAFiscal.idv[178] ==> HAFiscal142x.svg ---
+--- needs --- HAFiscal.idv[179] ==> HAFiscal143x.svg ---
+--- needs --- HAFiscal.idv[181] ==> HAFiscal144x.svg ---
+--- needs --- HAFiscal.idv[182] ==> HAFiscal145x.svg ---
+--- needs --- HAFiscal.idv[183] ==> HAFiscal146x.svg ---
+--- needs --- HAFiscal.idv[184] ==> HAFiscal147x.svg ---
+--- needs --- HAFiscal.idv[185] ==> HAFiscal148x.svg ---
+--- needs --- HAFiscal.idv[186] ==> HAFiscal149x.svg ---
+--- needs --- HAFiscal.idv[188] ==> HAFiscal150x.svg ---
+--- needs --- HAFiscal.idv[189] ==> HAFiscal151x.svg ---
+--- needs --- HAFiscal.idv[191] ==> HAFiscal152x.svg ---
+--- needs --- HAFiscal.idv[193] ==> HAFiscal153x.svg ---
+--- needs --- HAFiscal.idv[194] ==> HAFiscal154x.svg ---
+--- needs --- HAFiscal.idv[196] ==> HAFiscal155x.svg ---
+--- needs --- HAFiscal.idv[197] ==> HAFiscal156x.svg ---
+--- needs --- HAFiscal.idv[199] ==> HAFiscal157x.svg ---
+--- needs --- HAFiscal.idv[201] ==> HAFiscal158x.svg ---
+--- needs --- HAFiscal.idv[202] ==> HAFiscal159x.svg ---
+--- needs --- HAFiscal.idv[204] ==> HAFiscal160x.svg ---
+--- needs --- HAFiscal.idv[205] ==> HAFiscal161x.svg ---
+--- needs --- HAFiscal.idv[206] ==> HAFiscal162x.svg ---
+--- needs --- HAFiscal.idv[207] ==> HAFiscal163x.svg ---
+--- needs --- HAFiscal.idv[208] ==> HAFiscal164x.svg ---
+--- needs --- HAFiscal.idv[209] ==> HAFiscal165x.svg ---
+--- needs --- HAFiscal.idv[210] ==> HAFiscal166x.svg ---
+--- needs --- HAFiscal.idv[211] ==> HAFiscal167x.svg ---
+--- needs --- HAFiscal.idv[213] ==> HAFiscal168x.svg ---
+--- needs --- HAFiscal.idv[215] ==> HAFiscal169x.svg ---
+--- needs --- HAFiscal.idv[217] ==> HAFiscal170x.svg ---
+--- needs --- HAFiscal.idv[218] ==> HAFiscal171x.svg ---
+--- needs --- HAFiscal.idv[220] ==> HAFiscal172x.svg ---
+--- needs --- HAFiscal.idv[221] ==> HAFiscal173x.svg ---
+--- needs --- HAFiscal.idv[222] ==> HAFiscal174x.svg ---
+--- needs --- HAFiscal.idv[224] ==> HAFiscal175x.svg ---
+--- needs --- HAFiscal.idv[226] ==> HAFiscal176x.svg ---
+--- needs --- HAFiscal.idv[227] ==> HAFiscal177x.svg ---
+--- needs --- HAFiscal.idv[229] ==> HAFiscal178x.svg ---
+--- needs --- HAFiscal.idv[230] ==> HAFiscal179x.svg ---
+--- needs --- HAFiscal.idv[231] ==> HAFiscal180x.svg ---
+--- needs --- HAFiscal.idv[232] ==> HAFiscal181x.svg ---
+--- needs --- HAFiscal.idv[233] ==> HAFiscal182x.svg ---
+--- needs --- HAFiscal.idv[234] ==> HAFiscal183x.svg ---
+--- needs --- HAFiscal.idv[235] ==> HAFiscal184x.svg ---
+--- needs --- HAFiscal.idv[236] ==> HAFiscal185x.svg ---
+--- needs --- HAFiscal.idv[237] ==> HAFiscal186x.svg ---
+--- needs --- HAFiscal.idv[238] ==> HAFiscal187x.svg ---
+--- needs --- HAFiscal.idv[239] ==> HAFiscal188x.svg ---
+--- needs --- HAFiscal.idv[240] ==> HAFiscal189x.svg ---
+--- needs --- HAFiscal.idv[241] ==> HAFiscal190x.svg ---
+--- needs --- HAFiscal.idv[242] ==> HAFiscal191x.svg ---
+--- needs --- HAFiscal.idv[243] ==> HAFiscal192x.svg ---
+--- needs --- HAFiscal.idv[244] ==> HAFiscal193x.svg ---
+--- needs --- HAFiscal.idv[245] ==> HAFiscal194x.svg ---
+--- needs --- HAFiscal.idv[246] ==> HAFiscal195x.svg ---
+--- needs --- HAFiscal.idv[247] ==> HAFiscal196x.svg ---
+--- needs --- HAFiscal.idv[248] ==> HAFiscal197x.svg ---
+--- needs --- HAFiscal.idv[249] ==> HAFiscal198x.svg ---
+--- needs --- HAFiscal.idv[250] ==> HAFiscal199x.svg ---
+--- needs --- HAFiscal.idv[252] ==> HAFiscal200x.svg ---
+--- needs --- HAFiscal.idv[254] ==> HAFiscal201x.svg ---
 File: Subfiles/../Figures/LorenzPoints_robustness_CRRA-.svg
---- needs --- HAFiscal.idv[255] ==> HAFiscal202x.svg ---
---- needs --- HAFiscal.idv[257] ==> HAFiscal203x.svg ---
---- needs --- HAFiscal.idv[259] ==> HAFiscal204x.svg ---
---- needs --- HAFiscal.idv[260] ==> HAFiscal205x.svg ---
---- needs --- HAFiscal.idv[261] ==> HAFiscal206x.svg ---
---- needs --- HAFiscal.idv[262] ==> HAFiscal207x.svg ---
---- needs --- HAFiscal.idv[264] ==> HAFiscal208x.svg ---
---- needs --- HAFiscal.idv[266] ==> HAFiscal209x.svg ---
---- needs --- HAFiscal.idv[268] ==> HAFiscal210x.svg ---
---- needs --- HAFiscal.idv[269] ==> HAFiscal211x.svg ---
---- needs --- HAFiscal.idv[270] ==> HAFiscal212x.svg ---
---- needs --- HAFiscal.idv[272] ==> HAFiscal213x.svg ---
---- needs --- HAFiscal.idv[274] ==> HAFiscal214x.svg ---
---- needs --- HAFiscal.idv[275] ==> HAFiscal215x.svg ---
---- needs --- HAFiscal.idv[276] ==> HAFiscal216x.svg ---
---- needs --- HAFiscal.idv[277] ==> HAFiscal217x.svg ---
---- needs --- HAFiscal.idv[278] ==> HAFiscal218x.svg ---
---- needs --- HAFiscal.idv[280] ==> HAFiscal219x.svg ---
---- needs --- HAFiscal.idv[282] ==> HAFiscal220x.svg ---
---- needs --- HAFiscal.idv[283] ==> HAFiscal221x.svg ---
---- needs --- HAFiscal.idv[284] ==> HAFiscal222x.svg ---
---- needs --- HAFiscal.idv[286] ==> HAFiscal223x.svg ---
---- needs --- HAFiscal.idv[288] ==> HAFiscal224x.svg ---
---- needs --- HAFiscal.idv[290] ==> HAFiscal225x.svg ---
---- needs --- HAFiscal.idv[291] ==> HAFiscal226x.svg ---
---- needs --- HAFiscal.idv[292] ==> HAFiscal227x.svg ---
---- needs --- HAFiscal.idv[294] ==> HAFiscal228x.svg ---
---- needs --- HAFiscal.idv[296] ==> HAFiscal229x.svg ---
---- needs --- HAFiscal.idv[297] ==> HAFiscal230x.svg ---
-l. 35 --- needs --- "pdf2svg "Subfiles/../Figures/LorenzPoints_robustness_R.pdf" "Subfiles/../Figures/LorenzPoints_robustness_R-.svg" " ---
+--- needs --- HAFiscal.idv[256] ==> HAFiscal202x.svg ---
+--- needs --- HAFiscal.idv[258] ==> HAFiscal203x.svg ---
+--- needs --- HAFiscal.idv[260] ==> HAFiscal204x.svg ---
+--- needs --- HAFiscal.idv[261] ==> HAFiscal205x.svg ---
+--- needs --- HAFiscal.idv[262] ==> HAFiscal206x.svg ---
+--- needs --- HAFiscal.idv[263] ==> HAFiscal207x.svg ---
+--- needs --- HAFiscal.idv[265] ==> HAFiscal208x.svg ---
+--- needs --- HAFiscal.idv[267] ==> HAFiscal209x.svg ---
+--- needs --- HAFiscal.idv[269] ==> HAFiscal210x.svg ---
+--- needs --- HAFiscal.idv[270] ==> HAFiscal211x.svg ---
+--- needs --- HAFiscal.idv[271] ==> HAFiscal212x.svg ---
+--- needs --- HAFiscal.idv[273] ==> HAFiscal213x.svg ---
+--- needs --- HAFiscal.idv[275] ==> HAFiscal214x.svg ---
+--- needs --- HAFiscal.idv[276] ==> HAFiscal215x.svg ---
+--- needs --- HAFiscal.idv[277] ==> HAFiscal216x.svg ---
+--- needs --- HAFiscal.idv[278] ==> HAFiscal217x.svg ---
+--- needs --- HAFiscal.idv[279] ==> HAFiscal218x.svg ---
+--- needs --- HAFiscal.idv[281] ==> HAFiscal219x.svg ---
+--- needs --- HAFiscal.idv[283] ==> HAFiscal220x.svg ---
+--- needs --- HAFiscal.idv[284] ==> HAFiscal221x.svg ---
+--- needs --- HAFiscal.idv[285] ==> HAFiscal222x.svg ---
+--- needs --- HAFiscal.idv[287] ==> HAFiscal223x.svg ---
+--- needs --- HAFiscal.idv[289] ==> HAFiscal224x.svg ---
+--- needs --- HAFiscal.idv[291] ==> HAFiscal225x.svg ---
+--- needs --- HAFiscal.idv[292] ==> HAFiscal226x.svg ---
+--- needs --- HAFiscal.idv[293] ==> HAFiscal227x.svg ---
+--- needs --- HAFiscal.idv[295] ==> HAFiscal228x.svg ---
+--- needs --- HAFiscal.idv[297] ==> HAFiscal229x.svg ---
+--- needs --- HAFiscal.idv[298] ==> HAFiscal230x.svg ---
 File: Subfiles/../Figures/LorenzPoints_robustness_R-.svg
---- needs --- HAFiscal.idv[299] ==> HAFiscal231x.svg ---
+--- needs --- HAFiscal.idv[300] ==> HAFiscal231x.svg ---
 --- characters ---
 Font("cmex","10","10","100")
 Font("cmr","7","7","100")
