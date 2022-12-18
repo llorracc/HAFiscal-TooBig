@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  18 DEC 2022 14:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  18 DEC 2022 18:18
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1782,22 +1782,22 @@ Package caption Info: End \AtBeginDocument code.
 \c=\count336
 ) (./Resources/LaTeXInputs/econtex_notinsubfile.tex) (./HAFiscal-titlepage.tex 
 (./econtexRoot.texinput (./Resources/econtexPaths.tex))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 35
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 34
 .
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 35
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 34
 .
 (/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
@@ -1806,8 +1806,8 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 \openout5 = `./Subfiles/Abstract.texinput'.
 
 (./Subfiles/Abstract.texinput)
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
-0.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+9.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
@@ -1825,60 +1825,60 @@ es/econtexPaths.tex))
 
 ] [3] [4] [5]) (./Subfiles/Model.tex (./Subfiles/./econtexRoot.texinput (./Subf
 iles/../Resources/econtexPaths.tex)) [6]
-l. 13 Writing HAFiscal.idv[1] (HAFiscal0x.svg)
-l. 13 Writing HAFiscal.idv[2] (HAFiscal1x.svg)
-l. 13 Writing HAFiscal.idv[3] (HAFiscal2x.svg)
-l. 13 Writing HAFiscal.idv[4] (HAFiscal3x.svg)
-l. 13 Writing HAFiscal.idv[5] (HAFiscal4x.svg)
-l. 14 Writing HAFiscal.idv[6] (HAFiscal5x.svg)
-l. 17 Writing HAFiscal.idv[7] (HAFiscal6x.svg)
-l. 17 Writing HAFiscal.idv[8] (HAFiscal7x.svg)
-l. 17 Writing HAFiscal.idv[9] (HAFiscal8x.svg)
-l. 18 Writing HAFiscal.idv[10] (HAFiscal9x.svg)
-l. 21 Writing HAFiscal.idv[11] (HAFiscal10x.svg)
-l. 22 Writing HAFiscal.idv[12] (HAFiscal11x.svg)
-l. 25 Writing HAFiscal.idv[13] (HAFiscal12x.svg)
-l. 25 Writing HAFiscal.idv[14] (HAFiscal13x.svg)
-l. 25 Writing HAFiscal.idv[15] (HAFiscal14x.svg)
-l. 25 Writing HAFiscal.idv[16] (HAFiscal15x.svg)
-l. 25 Writing HAFiscal.idv[17] (HAFiscal16x.svg)
-l. 25 Writing HAFiscal.idv[18] (HAFiscal17x.svg)
-l. 26 Writing HAFiscal.idv[19] (HAFiscal18x.svg)
+l. 14 Writing HAFiscal.idv[1] (HAFiscal0x.svg)
+l. 14 Writing HAFiscal.idv[2] (HAFiscal1x.svg)
+l. 14 Writing HAFiscal.idv[3] (HAFiscal2x.svg)
+l. 14 Writing HAFiscal.idv[4] (HAFiscal3x.svg)
+l. 14 Writing HAFiscal.idv[5] (HAFiscal4x.svg)
+l. 15 Writing HAFiscal.idv[6] (HAFiscal5x.svg)
+l. 18 Writing HAFiscal.idv[7] (HAFiscal6x.svg)
+l. 18 Writing HAFiscal.idv[8] (HAFiscal7x.svg)
+l. 18 Writing HAFiscal.idv[9] (HAFiscal8x.svg)
+l. 19 Writing HAFiscal.idv[10] (HAFiscal9x.svg)
+l. 22 Writing HAFiscal.idv[11] (HAFiscal10x.svg)
+l. 23 Writing HAFiscal.idv[12] (HAFiscal11x.svg)
+l. 26 Writing HAFiscal.idv[13] (HAFiscal12x.svg)
+l. 26 Writing HAFiscal.idv[14] (HAFiscal13x.svg)
+l. 26 Writing HAFiscal.idv[15] (HAFiscal14x.svg)
+l. 26 Writing HAFiscal.idv[16] (HAFiscal15x.svg)
+l. 26 Writing HAFiscal.idv[17] (HAFiscal16x.svg)
+l. 26 Writing HAFiscal.idv[18] (HAFiscal17x.svg)
+l. 27 Writing HAFiscal.idv[19] (HAFiscal18x.svg)
+l. 32 Writing HAFiscal.idv[20] (HAFiscal19x.svg)
+l. 32 Writing HAFiscal.idv[21] (HAFiscal20x.svg)
+l. 32 Writing HAFiscal.idv[22] (HAFiscal21x.svg)
+l. 32 Writing HAFiscal.idv[23] (HAFiscal22x.svg)
+l. 32 Writing HAFiscal.idv[24] (HAFiscal23x.svg)
 [7]
-l. 31 Writing HAFiscal.idv[20] (HAFiscal19x.svg)
-l. 31 Writing HAFiscal.idv[21] (HAFiscal20x.svg)
-l. 31 Writing HAFiscal.idv[22] (HAFiscal21x.svg)
-l. 31 Writing HAFiscal.idv[23] (HAFiscal22x.svg)
-l. 31 Writing HAFiscal.idv[24] (HAFiscal23x.svg)
-l. 35 Writing HAFiscal.idv[25] (HAFiscal24x.svg)
-l. 38 Writing HAFiscal.idv[26] (HAFiscal25x.svg)
-l. 38 Writing HAFiscal.idv[27] (HAFiscal26x.svg)
-l. 38 Writing HAFiscal.idv[28] (HAFiscal27x.svg)
+l. 37 Writing HAFiscal.idv[25] (HAFiscal24x.svg)
+l. 40 Writing HAFiscal.idv[26] (HAFiscal25x.svg)
+l. 40 Writing HAFiscal.idv[27] (HAFiscal26x.svg)
+l. 40 Writing HAFiscal.idv[28] (HAFiscal27x.svg)
 --- file HAFiscal5.html ---
-l. 38 Writing HAFiscal.idv[29] (HAFiscal28x.svg)
-l. 38 Writing HAFiscal.idv[30] (HAFiscal29x.svg)
-l. 38 Writing HAFiscal.idv[31] (HAFiscal30x.svg)
-l. 40 Writing HAFiscal.idv[32] (HAFiscal31x.svg)
-l. 41 Writing HAFiscal.idv[33] (HAFiscal32x.svg)
+l. 40 Writing HAFiscal.idv[29] (HAFiscal28x.svg)
+l. 40 Writing HAFiscal.idv[30] (HAFiscal29x.svg)
+l. 40 Writing HAFiscal.idv[31] (HAFiscal30x.svg)
+l. 42 Writing HAFiscal.idv[32] (HAFiscal31x.svg)
+l. 43 Writing HAFiscal.idv[33] (HAFiscal32x.svg)
+l. 50 Writing HAFiscal.idv[34] (HAFiscal33x.svg)
+l. 50 Writing HAFiscal.idv[35] (HAFiscal34x.svg)
+l. 50 Writing HAFiscal.idv[36] (HAFiscal35x.svg)
+l. 50 Writing HAFiscal.idv[37] (HAFiscal36x.svg)
+l. 52 Writing HAFiscal.idv[38] (HAFiscal37x.svg)
+l. 52 Writing HAFiscal.idv[39] (HAFiscal38x.svg)
+--- file HAFiscal6.html ---
+l. 52 Writing HAFiscal.idv[40] (HAFiscal39x.svg)
+l. 52 Writing HAFiscal.idv[41] (HAFiscal40x.svg)
+l. 52 Writing HAFiscal.idv[42] (HAFiscal41x.svg)
+l. 52 Writing HAFiscal.idv[43] (HAFiscal42x.svg)
+l. 52 Writing HAFiscal.idv[44] (HAFiscal43x.svg)
+l. 52 Writing HAFiscal.idv[45] (HAFiscal44x.svg)
+l. 52 Writing HAFiscal.idv[46] (HAFiscal45x.svg)
 [8
 
 ]
-l. 48 Writing HAFiscal.idv[34] (HAFiscal33x.svg)
-l. 48 Writing HAFiscal.idv[35] (HAFiscal34x.svg)
-l. 48 Writing HAFiscal.idv[36] (HAFiscal35x.svg)
-l. 48 Writing HAFiscal.idv[37] (HAFiscal36x.svg)
-l. 50 Writing HAFiscal.idv[38] (HAFiscal37x.svg)
-l. 50 Writing HAFiscal.idv[39] (HAFiscal38x.svg)
---- file HAFiscal6.html ---
-l. 50 Writing HAFiscal.idv[40] (HAFiscal39x.svg)
-l. 50 Writing HAFiscal.idv[41] (HAFiscal40x.svg)
-l. 50 Writing HAFiscal.idv[42] (HAFiscal41x.svg)
-l. 50 Writing HAFiscal.idv[43] (HAFiscal42x.svg)
-l. 50 Writing HAFiscal.idv[44] (HAFiscal43x.svg)
-l. 50 Writing HAFiscal.idv[45] (HAFiscal44x.svg)
-l. 50 Writing HAFiscal.idv[46] (HAFiscal45x.svg)
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 56.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 58.
 [9
 
 ]
@@ -1886,17 +1886,15 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
 --- file HAFiscal8.html ---
 [10
 
-]
-l. 73 Writing HAFiscal.idv[47] (HAFiscal46x.svg)
-l. 79 Writing HAFiscal.idv[48] (HAFiscal47x.svg)
-l. 79 Writing HAFiscal.idv[49] (HAFiscal48x.svg)
-l. 80 Writing HAFiscal.idv[50] (HAFiscal49x.svg)
-[11
 
 ]
-l. 83 Writing HAFiscal.idv[51] (HAFiscal50x.svg)
+l. 75 Writing HAFiscal.idv[47] (HAFiscal46x.svg)
+l. 81 Writing HAFiscal.idv[48] (HAFiscal47x.svg)
+l. 81 Writing HAFiscal.idv[49] (HAFiscal48x.svg)
+l. 82 Writing HAFiscal.idv[50] (HAFiscal49x.svg)
+l. 85 Writing HAFiscal.idv[51] (HAFiscal50x.svg)
 ) (./Subfiles/Parameterization.tex (./Subfiles/./econtexRoot.texinput (./Subfil
-es/../Resources/econtexPaths.tex)) [12]
+es/../Resources/econtexPaths.tex)) [11]
 --- file HAFiscal9.html ---
 l. 22 Writing HAFiscal.idv[52] (HAFiscal51x.svg)
 l. 22 Writing HAFiscal.idv[53] (HAFiscal52x.svg)
@@ -1904,7 +1902,7 @@ l. 22 Writing HAFiscal.idv[54] (HAFiscal53x.svg)
 l. 22 Writing HAFiscal.idv[55] (HAFiscal54x.svg)
 --- file HAFiscal10.html ---
 l. 22 Writing HAFiscal.idv[56] (HAFiscal55x.svg)
-[13
+[12] [13
 
 
 ] [14
@@ -1989,49 +1987,49 @@ l. 181 Writing HAFiscal.idv[93] (HAFiscal92x.svg)
 l. 181 Writing HAFiscal.idv[94] (HAFiscal93x.svg)
 l. 181 Writing HAFiscal.idv[95] (HAFiscal94x.svg)
 l. 183 Writing HAFiscal.idv[96] (HAFiscal95x.svg)
-l. 189 Writing HAFiscal.idv[97] (HAFiscal96x.svg)
-l. 189 Writing HAFiscal.idv[98] (HAFiscal97x.svg)
-l. 189 Writing HAFiscal.idv[99] (HAFiscal98x.svg)
-l. 189 Writing HAFiscal.idv[100] (HAFiscal99x.svg)
-l. 189 Writing HAFiscal.idv[101] (HAFiscal100x.svg)
-l. 189 Writing HAFiscal.idv[102] (HAFiscal101x.svg)
-l. 189 Writing HAFiscal.idv[103] (HAFiscal102x.svg)
-l. 189 Writing HAFiscal.idv[104] (HAFiscal103x.svg)
-l. 189 Writing HAFiscal.idv[105] (HAFiscal104x.svg)
-l. 191 Writing HAFiscal.idv[106] (HAFiscal105x.svg)
+l. 190 Writing HAFiscal.idv[97] (HAFiscal96x.svg)
+l. 190 Writing HAFiscal.idv[98] (HAFiscal97x.svg)
+l. 190 Writing HAFiscal.idv[99] (HAFiscal98x.svg)
+l. 190 Writing HAFiscal.idv[100] (HAFiscal99x.svg)
+l. 190 Writing HAFiscal.idv[101] (HAFiscal100x.svg)
+l. 190 Writing HAFiscal.idv[102] (HAFiscal101x.svg)
+l. 190 Writing HAFiscal.idv[103] (HAFiscal102x.svg)
+l. 190 Writing HAFiscal.idv[104] (HAFiscal103x.svg)
+l. 190 Writing HAFiscal.idv[105] (HAFiscal104x.svg)
+l. 192 Writing HAFiscal.idv[106] (HAFiscal105x.svg)
 [25
 
 ] [26] [27
 
 ]
-l. 195 Writing HAFiscal.idv[107] (HAFiscal106x.svg)
+l. 196 Writing HAFiscal.idv[107] (HAFiscal106x.svg)
 [28
 
 ]
-l. 229 Writing HAFiscal.idv[108] (HAFiscal107x.svg)
-l. 229 Writing HAFiscal.idv[109] (HAFiscal108x.svg)
-l. 229 Writing HAFiscal.idv[110] (HAFiscal109x.svg)
-l. 229 Writing HAFiscal.idv[111] (HAFiscal110x.svg)
+l. 230 Writing HAFiscal.idv[108] (HAFiscal107x.svg)
+l. 230 Writing HAFiscal.idv[109] (HAFiscal108x.svg)
+l. 230 Writing HAFiscal.idv[110] (HAFiscal109x.svg)
+l. 230 Writing HAFiscal.idv[111] (HAFiscal110x.svg)
 [29
 
 ] [30
 
 ]
-l. 233 --- needs --- Subfiles/../Figures/LorenzPoints-.svg ---
+l. 234 --- needs --- Subfiles/../Figures/LorenzPoints-.svg ---
 [31
 
 ]
-l. 239 Writing HAFiscal.idv[112] (HAFiscal111x.svg)
-l. 239 Writing HAFiscal.idv[113] (HAFiscal112x.svg)
+l. 240 Writing HAFiscal.idv[112] (HAFiscal111x.svg)
+l. 240 Writing HAFiscal.idv[113] (HAFiscal112x.svg)
 --- file HAFiscal15.html ---
-l. 239 Writing HAFiscal.idv[114] (HAFiscal113x.svg)
-l. 239 Writing HAFiscal.idv[115] (HAFiscal114x.svg)
+l. 240 Writing HAFiscal.idv[114] (HAFiscal113x.svg)
+l. 240 Writing HAFiscal.idv[115] (HAFiscal114x.svg)
 --- file HAFiscal16.html ---
-l. 241 Writing HAFiscal.idv[116] (HAFiscal115x.svg)
-l. 241 Writing HAFiscal.idv[117] (HAFiscal116x.svg)
-l. 241 Writing HAFiscal.idv[118] (HAFiscal117x.svg)
-l. 243 Writing HAFiscal.idv[119] (HAFiscal118x.svg)
-l. 243 Writing HAFiscal.idv[120] (HAFiscal119x.svg)
+l. 242 Writing HAFiscal.idv[116] (HAFiscal115x.svg)
+l. 242 Writing HAFiscal.idv[117] (HAFiscal116x.svg)
+l. 242 Writing HAFiscal.idv[118] (HAFiscal117x.svg)
+l. 244 Writing HAFiscal.idv[119] (HAFiscal118x.svg)
+l. 244 Writing HAFiscal.idv[120] (HAFiscal119x.svg)
 ) (./Subfiles/Comparing-policies.tex (./Subfiles/./econtexRoot.texinput (./Subf
 iles/../Resources/econtexPaths.tex)) [32
 
@@ -2140,27 +2138,27 @@ l. 1 Writing HAFiscal.idv[153] (HAFiscal152x.svg)
 /Resources/econtexPaths.tex)) [56
 
 ]
-l. 15 Writing HAFiscal.idv[154] (HAFiscal153x.svg)
-l. 15 Writing HAFiscal.idv[155] (HAFiscal154x.svg)
-l. 20 Writing HAFiscal.idv[156] (HAFiscal155x.svg)
-l. 20 Writing HAFiscal.idv[157] (HAFiscal156x.svg)
+l. 17 Writing HAFiscal.idv[154] (HAFiscal153x.svg)
+l. 17 Writing HAFiscal.idv[155] (HAFiscal154x.svg)
+l. 22 Writing HAFiscal.idv[156] (HAFiscal155x.svg)
+l. 22 Writing HAFiscal.idv[157] (HAFiscal156x.svg)
 [57] [58
 
 ]
-l. 24 Writing HAFiscal.idv[158] (HAFiscal157x.svg)
-l. 33 Writing HAFiscal.idv[159] (HAFiscal158x.svg)
-l. 33 Writing HAFiscal.idv[160] (HAFiscal159x.svg)
+l. 26 Writing HAFiscal.idv[158] (HAFiscal157x.svg)
+l. 35 Writing HAFiscal.idv[159] (HAFiscal158x.svg)
+l. 35 Writing HAFiscal.idv[160] (HAFiscal159x.svg)
 [59
 
 ]
-l. 38 Writing HAFiscal.idv[161] (HAFiscal160x.svg)
-l. 38 Writing HAFiscal.idv[162] (HAFiscal161x.svg)
-l. 38 Writing HAFiscal.idv[163] (HAFiscal162x.svg)
-l. 38 Writing HAFiscal.idv[164] (HAFiscal163x.svg)
-l. 38 Writing HAFiscal.idv[165] (HAFiscal164x.svg)
-l. 38 Writing HAFiscal.idv[166] (HAFiscal165x.svg)
-l. 38 Writing HAFiscal.idv[167] (HAFiscal166x.svg)
-l. 40 Writing HAFiscal.idv[168] (HAFiscal167x.svg)
+l. 40 Writing HAFiscal.idv[161] (HAFiscal160x.svg)
+l. 40 Writing HAFiscal.idv[162] (HAFiscal161x.svg)
+l. 40 Writing HAFiscal.idv[163] (HAFiscal162x.svg)
+l. 40 Writing HAFiscal.idv[164] (HAFiscal163x.svg)
+l. 40 Writing HAFiscal.idv[165] (HAFiscal164x.svg)
+l. 40 Writing HAFiscal.idv[166] (HAFiscal165x.svg)
+l. 40 Writing HAFiscal.idv[167] (HAFiscal166x.svg)
+l. 42 Writing HAFiscal.idv[168] (HAFiscal167x.svg)
 --- file HAFiscal22.html ---
 [60
 
@@ -2168,130 +2166,130 @@ l. 40 Writing HAFiscal.idv[168] (HAFiscal167x.svg)
 ] [61
 
 ]
-l. 53 Writing HAFiscal.idv[169] (HAFiscal168x.svg)
-l. 63 Writing HAFiscal.idv[170] (HAFiscal169x.svg)
+l. 55 Writing HAFiscal.idv[169] (HAFiscal168x.svg)
+l. 65 Writing HAFiscal.idv[170] (HAFiscal169x.svg)
 [62
 
 ]
-l. 73 Writing HAFiscal.idv[171] (HAFiscal170x.svg)
-l. 73 Writing HAFiscal.idv[172] (HAFiscal171x.svg)
-l. 78 Writing HAFiscal.idv[173] (HAFiscal172x.svg)
-l. 78 Writing HAFiscal.idv[174] (HAFiscal173x.svg)
-l. 78 Writing HAFiscal.idv[175] (HAFiscal174x.svg)
+l. 76 Writing HAFiscal.idv[171] (HAFiscal170x.svg)
+l. 76 Writing HAFiscal.idv[172] (HAFiscal171x.svg)
+l. 81 Writing HAFiscal.idv[173] (HAFiscal172x.svg)
+l. 81 Writing HAFiscal.idv[174] (HAFiscal173x.svg)
+l. 81 Writing HAFiscal.idv[175] (HAFiscal174x.svg)
 [63
 
 ] [64
 
 ]
-l. 82 Writing HAFiscal.idv[176] (HAFiscal175x.svg)
-l. 91 Writing HAFiscal.idv[177] (HAFiscal176x.svg)
-l. 91 Writing HAFiscal.idv[178] (HAFiscal177x.svg)
+l. 85 Writing HAFiscal.idv[176] (HAFiscal175x.svg)
+l. 94 Writing HAFiscal.idv[177] (HAFiscal176x.svg)
+l. 94 Writing HAFiscal.idv[178] (HAFiscal177x.svg)
 [65
 
 ]
-l. 96 Writing HAFiscal.idv[179] (HAFiscal178x.svg)
-l. 96 Writing HAFiscal.idv[180] (HAFiscal179x.svg)
-l. 96 Writing HAFiscal.idv[181] (HAFiscal180x.svg)
-l. 96 Writing HAFiscal.idv[182] (HAFiscal181x.svg)
-l. 96 Writing HAFiscal.idv[183] (HAFiscal182x.svg)
-l. 96 Writing HAFiscal.idv[184] (HAFiscal183x.svg)
-l. 96 Writing HAFiscal.idv[185] (HAFiscal184x.svg)
-l. 96 Writing HAFiscal.idv[186] (HAFiscal185x.svg)
-l. 96 Writing HAFiscal.idv[187] (HAFiscal186x.svg)
-l. 98 Writing HAFiscal.idv[188] (HAFiscal187x.svg)
-l. 98 Writing HAFiscal.idv[189] (HAFiscal188x.svg)
-l. 98 Writing HAFiscal.idv[190] (HAFiscal189x.svg)
-l. 98 Writing HAFiscal.idv[191] (HAFiscal190x.svg)
-l. 98 Writing HAFiscal.idv[192] (HAFiscal191x.svg)
-l. 98 Writing HAFiscal.idv[193] (HAFiscal192x.svg)
+l. 99 Writing HAFiscal.idv[179] (HAFiscal178x.svg)
+l. 99 Writing HAFiscal.idv[180] (HAFiscal179x.svg)
+l. 99 Writing HAFiscal.idv[181] (HAFiscal180x.svg)
+l. 99 Writing HAFiscal.idv[182] (HAFiscal181x.svg)
+l. 99 Writing HAFiscal.idv[183] (HAFiscal182x.svg)
+l. 99 Writing HAFiscal.idv[184] (HAFiscal183x.svg)
+l. 99 Writing HAFiscal.idv[185] (HAFiscal184x.svg)
+l. 99 Writing HAFiscal.idv[186] (HAFiscal185x.svg)
+l. 99 Writing HAFiscal.idv[187] (HAFiscal186x.svg)
+l. 101 Writing HAFiscal.idv[188] (HAFiscal187x.svg)
+l. 101 Writing HAFiscal.idv[189] (HAFiscal188x.svg)
+l. 101 Writing HAFiscal.idv[190] (HAFiscal189x.svg)
+l. 101 Writing HAFiscal.idv[191] (HAFiscal190x.svg)
+l. 101 Writing HAFiscal.idv[192] (HAFiscal191x.svg)
+l. 101 Writing HAFiscal.idv[193] (HAFiscal192x.svg)
 --- file HAFiscal23.html ---
-l. 98 Writing HAFiscal.idv[194] (HAFiscal193x.svg)
-l. 98 Writing HAFiscal.idv[195] (HAFiscal194x.svg)
-l. 98 Writing HAFiscal.idv[196] (HAFiscal195x.svg)
-l. 98 Writing HAFiscal.idv[197] (HAFiscal196x.svg)
-l. 100 Writing HAFiscal.idv[198] (HAFiscal197x.svg)
-l. 100 Writing HAFiscal.idv[199] (HAFiscal198x.svg)
-l. 100 Writing HAFiscal.idv[200] (HAFiscal199x.svg)
+l. 101 Writing HAFiscal.idv[194] (HAFiscal193x.svg)
+l. 101 Writing HAFiscal.idv[195] (HAFiscal194x.svg)
+l. 101 Writing HAFiscal.idv[196] (HAFiscal195x.svg)
+l. 101 Writing HAFiscal.idv[197] (HAFiscal196x.svg)
+l. 103 Writing HAFiscal.idv[198] (HAFiscal197x.svg)
+l. 103 Writing HAFiscal.idv[199] (HAFiscal198x.svg)
+l. 103 Writing HAFiscal.idv[200] (HAFiscal199x.svg)
 [66
 
 
 ] [67
 
 ]
-l. 104 Writing HAFiscal.idv[201] (HAFiscal200x.svg)
+l. 107 Writing HAFiscal.idv[201] (HAFiscal200x.svg)
 [68
 
 ]
-l. 118 Writing HAFiscal.idv[202] (HAFiscal201x.svg)
+l. 121 Writing HAFiscal.idv[202] (HAFiscal201x.svg)
 [69
 
 ] [70
 
 ]
-l. 122 --- needs --- Subfiles/../Figures/LorenzPoints_robustness_CRRA-.svg ---
-l. 123 Writing HAFiscal.idv[203] (HAFiscal202x.svg)
+l. 125 --- needs --- Subfiles/../Figures/LorenzPoints_robustness_CRRA-.svg ---
+l. 126 Writing HAFiscal.idv[203] (HAFiscal202x.svg)
 [71
 
 ]
-l. 128 Writing HAFiscal.idv[204] (HAFiscal203x.svg)
-l. 137 Writing HAFiscal.idv[205] (HAFiscal204x.svg)
-l. 137 Writing HAFiscal.idv[206] (HAFiscal205x.svg)
-l. 139 Writing HAFiscal.idv[207] (HAFiscal206x.svg)
+l. 131 Writing HAFiscal.idv[204] (HAFiscal203x.svg)
+l. 140 Writing HAFiscal.idv[205] (HAFiscal204x.svg)
+l. 140 Writing HAFiscal.idv[206] (HAFiscal205x.svg)
+l. 142 Writing HAFiscal.idv[207] (HAFiscal206x.svg)
 --- file HAFiscal24.html ---
-l. 139 Writing HAFiscal.idv[208] (HAFiscal207x.svg)
+l. 142 Writing HAFiscal.idv[208] (HAFiscal207x.svg)
 [72
 
 
 ] [73] [74
 
 ]
-l. 144 Writing HAFiscal.idv[209] (HAFiscal208x.svg)
-l. 154 Writing HAFiscal.idv[210] (HAFiscal209x.svg)
+l. 147 Writing HAFiscal.idv[209] (HAFiscal208x.svg)
+l. 157 Writing HAFiscal.idv[210] (HAFiscal209x.svg)
 [75
 
 ]
-l. 164 Writing HAFiscal.idv[211] (HAFiscal210x.svg)
-l. 164 Writing HAFiscal.idv[212] (HAFiscal211x.svg)
-l. 164 Writing HAFiscal.idv[213] (HAFiscal212x.svg)
-l. 164 Writing HAFiscal.idv[214] (HAFiscal213x.svg)
+l. 168 Writing HAFiscal.idv[211] (HAFiscal210x.svg)
+l. 168 Writing HAFiscal.idv[212] (HAFiscal211x.svg)
+l. 168 Writing HAFiscal.idv[213] (HAFiscal212x.svg)
+l. 168 Writing HAFiscal.idv[214] (HAFiscal213x.svg)
 --- file HAFiscal25.html ---
-l. 169 Writing HAFiscal.idv[215] (HAFiscal214x.svg)
-l. 169 Writing HAFiscal.idv[216] (HAFiscal215x.svg)
-l. 169 Writing HAFiscal.idv[217] (HAFiscal216x.svg)
-l. 169 Writing HAFiscal.idv[218] (HAFiscal217x.svg)
-l. 169 Writing HAFiscal.idv[219] (HAFiscal218x.svg)
+l. 173 Writing HAFiscal.idv[215] (HAFiscal214x.svg)
+l. 173 Writing HAFiscal.idv[216] (HAFiscal215x.svg)
+l. 173 Writing HAFiscal.idv[217] (HAFiscal216x.svg)
+l. 173 Writing HAFiscal.idv[218] (HAFiscal217x.svg)
+l. 173 Writing HAFiscal.idv[219] (HAFiscal218x.svg)
 [76
 
 
 ] [77
 
 ]
-l. 173 Writing HAFiscal.idv[220] (HAFiscal219x.svg)
-l. 182 Writing HAFiscal.idv[221] (HAFiscal220x.svg)
-l. 182 Writing HAFiscal.idv[222] (HAFiscal221x.svg)
-l. 182 Writing HAFiscal.idv[223] (HAFiscal222x.svg)
+l. 177 Writing HAFiscal.idv[220] (HAFiscal219x.svg)
+l. 186 Writing HAFiscal.idv[221] (HAFiscal220x.svg)
+l. 186 Writing HAFiscal.idv[222] (HAFiscal221x.svg)
+l. 186 Writing HAFiscal.idv[223] (HAFiscal222x.svg)
 [78
 
 ]
-l. 191 Writing HAFiscal.idv[224] (HAFiscal223x.svg)
+l. 195 Writing HAFiscal.idv[224] (HAFiscal223x.svg)
 [79
 
 ] [80
 
 ]
-l. 196 Writing HAFiscal.idv[225] (HAFiscal224x.svg)
+l. 200 Writing HAFiscal.idv[225] (HAFiscal224x.svg)
 [81
 
 ]
-l. 215 Writing HAFiscal.idv[226] (HAFiscal225x.svg)
-l. 219 Writing HAFiscal.idv[227] (HAFiscal226x.svg)
-l. 219 Writing HAFiscal.idv[228] (HAFiscal227x.svg)
+l. 220 Writing HAFiscal.idv[226] (HAFiscal225x.svg)
+l. 224 Writing HAFiscal.idv[227] (HAFiscal226x.svg)
+l. 224 Writing HAFiscal.idv[228] (HAFiscal227x.svg)
 [82
 
 ] [83
 
 ]
-l. 224 Writing HAFiscal.idv[229] (HAFiscal228x.svg)
+l. 229 Writing HAFiscal.idv[229] (HAFiscal228x.svg)
 [84
 
 ]) (./Subfiles/Conclusion.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/..
@@ -2299,13 +2297,13 @@ l. 224 Writing HAFiscal.idv[229] (HAFiscal228x.svg)
 
 ])) [86] (./Subfiles/Appendix.tex (./Subfiles/./econtexRoot.texinput (./Subfile
 s/../Resources/econtexPaths.tex))
-l. 18 Writing HAFiscal.idv[230] (HAFiscal229x.svg)
-l. 18 Writing HAFiscal.idv[231] (HAFiscal230x.svg)
+l. 19 Writing HAFiscal.idv[230] (HAFiscal229x.svg)
+l. 19 Writing HAFiscal.idv[231] (HAFiscal230x.svg)
 [87] [88
 
 ]
-l. 35 --- needs --- Subfiles/../Figures/LorenzPoints_robustness_R-.svg ---
-l. 36 Writing HAFiscal.idv[232] (HAFiscal231x.svg)
+l. 36 --- needs --- Subfiles/../Figures/LorenzPoints_robustness_R-.svg ---
+l. 37 Writing HAFiscal.idv[232] (HAFiscal231x.svg)
 [89
 
 ]) [90
@@ -2325,12 +2323,12 @@ bibliography{./Add-Refs,./HAFiscal,system}
 Dependency list written on HAFiscal.dep.
  ) 
 Here is how much of TeX's memory you used:
- 29438 strings out of 478995
- 523006 string characters out of 5858210
- 1043201 words of memory out of 5000000
- 45704 multiletter control sequences out of 15000+600000
+ 29457 strings out of 478995
+ 523564 string characters out of 5858210
+ 1043252 words of memory out of 5000000
+ 45723 multiletter control sequences out of 15000+600000
  433342 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,20n,152p,11110b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on HAFiscal.dvi (98 pages, 324576 bytes).
+Output written on HAFiscal.dvi (98 pages, 326180 bytes).
