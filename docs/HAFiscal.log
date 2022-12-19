@@ -1,16 +1,20 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  18 DEC 2022 22:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  18 DEC 2022 23:05
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCode"##1"{\Link##1}\expandafter\HCode\else\
-expandafter\Link\fi}\def\Link#1.a.b.c.{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\doc
-umentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname tex4ht\endcsname{#1,html}\def\HCode####1{\d
-ocumentstyle[tex4ht,}\@ifnextchar[{\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode HAFiscal.cfg,svg,charset=utf-8,ht
-ml5.a.b.c.\input "\detokenize{HAFiscal}"
-(./HAFiscal.tex (./econtexRoot.texinput (./Resources/econtexPaths.tex)) (./Resources/texmf-local/tex/latex/econtex.cls
-Document Class: ./Resources/texmf-local/tex/latex/econtex 2017/08/01 LaTeX class for economics papers, handouts, and exa
-m questions written by Christopher Carroll
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode HAFiscal.cfg,svg,charset=ut
+f-8,html5.a.b.c.\input "\detokenize{HAFiscal}"
+(./HAFiscal.tex (./econtexRoot.texinput (./Resources/econtexPaths.tex)) (./Reso
+urces/texmf-local/tex/latex/econtex.cls
+Document Class: ./Resources/texmf-local/tex/latex/econtex 2017/08/01 LaTeX clas
+s for economics papers, handouts, and exam questions written by Christopher Car
+roll
 (/usr/local/texlive/texmf-local/tex/latex/snapshot.sty
 Package: snapshot 2002/03/05 v1.14
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
@@ -26,13 +30,16 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2021/03/17 v3.33 KOMA-Script document class (article)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+Package: scrkbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
 Package: scrlfile-hook 2021/03/17 v3.33 KOMA-Script package (using LaTeX hooks)
+
 
 LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
 
@@ -118,7 +125,8 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
 Skipping: [2021/05/01] Usage of raw option list on input line 252.
-Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 337.
+Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 
+337.
 )) (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/tocbasic.sty
 Package: tocbasic 2021/03/17 v3.33 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip47
@@ -126,9 +134,11 @@ Package: tocbasic 2021/03/17 v3.33 KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: babel extension for `toc' omitted
 (tocbasic)             because of missing \bbl@set@language on input line 135.
-Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input line 2239.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 2239.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
-File: scrsize12pt.clo 2021/03/17 v3.33 KOMA-Script font size class option (12pt)
+File: scrsize12pt.clo 2021/03/17 v3.33 KOMA-Script font size class option (12pt
+)
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2021/03/17 v3.33 KOMA-Script package (type area)
 \ta@bcor=\skip48
@@ -194,10 +204,12 @@ Class scrartcl Info: using compatibility default `afterindent=bysign'
 \c@pti@nb@sid@b@x=\box48
 Package tocbasic Info: babel extension for `lof' omitted
 (tocbasic)             because of missing \bbl@set@language on input line 6127.
+
 \scr@dte@figure@maxnumwidth=\skip61
 \c@figure=\count189
 Package tocbasic Info: babel extension for `lot' omitted
 (tocbasic)             because of missing \bbl@set@language on input line 6139.
+
 \scr@dte@table@maxnumwidth=\skip62
 \c@table=\count190
 Class scrartcl Info: Redefining `\numberline' on input line 6303.
@@ -315,8 +327,8 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip70
 \thm@headsep=\skip71
 \dth@everypar=\toks28
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/xpatch/xpatch.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel
-/expl3.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xpatch/xpatch.sty (/usr/local/t
+exlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2021-02-18 L3 programming layer (loader) 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
@@ -329,13 +341,16 @@ File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
 \g__pdf_backend_link_sf_int=\count277
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2021/texmf-dist/tex/latex
-/l3packages/xparse/xparse-2020-10-01.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
 tex))) (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count278
 ))
 Class scrartcl Info: amsthm's \deferred@thm@head patched.
+
 (/usr/local/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box54
@@ -454,10 +469,12 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks30
 \AP@partial=\box103
 \AP@footins=\box104
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/enotez/enotez.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packag
-es/l3keys2e/l3keys2e.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/enotez/enotez.sty (/usr/local/t
+exlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
 Package: xtemplate 2021-03-12 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen176
 \l__xtemplate_tmp_int=\count294
@@ -478,9 +495,11 @@ Package xtemplate Info: Declaring object type 'enotez-list' taking 1
 
 \l__enotez_list_notes_sep_dim=\dimen177
 (/usr/local/texlive/2021/texmf-dist/tex/latex/translations/translations.sty
-Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e packages (CN)
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
@@ -506,7 +525,8 @@ Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 File: t3enc.def 2001/12/31 T3 encoding
 Now handling font encoding T3 ...
 ... no UTF-8 mapping file for font encoding T3
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 357.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 3
+57.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )))) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -588,8 +608,10 @@ Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
 Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
 Package footmisc Info: Declaring symbol style lamport* on input line 903.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/ncctools/manyfoot.sty
 Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/ncctools/nccfoots.sty
@@ -625,7 +647,8 @@ Package: tex4ht
 \tmp:toks=\toks33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2021-02-07-14:58
-) (./Resources/texmf-local/tex/latex/econtexSetup.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/wasysym.sty
+) (./Resources/texmf-local/tex/latex/econtexSetup.sty (/usr/local/texlive/2021/
+texmf-dist/tex/latex/wasysym/wasysym.sty
 Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
 \symwasy=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
@@ -633,12 +656,14 @@ LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/ibygrk/psibycus.sty
 Package: psibycus 2004/10/18 v4.5 Ibycus4 using Type1 fonts (P.A.MacKay/WaS)
 \digraphs=\toks34
-(/usr/local/texlive/2021/texmf-dist/tex/generic/ibygrk/ibycus4.map (/usr/local/texlive/2021/texmf-dist/tex/generic/ibygr
-k/tlgsqq.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/ibygrk/Uibycus.fd
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ibygrk/ibycus4.map (/usr/local/
+texlive/2021/texmf-dist/tex/generic/ibygrk/tlgsqq.tex)) (/usr/local/texlive/202
+1/texmf-dist/tex/generic/ibygrk/Uibycus.fd
 File: Uibycus.fd 2004/10/18 v4.5 font definitions for Ibycus/Type1 (WaS)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/ibygrk/iby4extr.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/ib
-ygrk/version4.tex Ibycus Greek. Version 4. 15 July 1997))) (/usr/local/texlive/2021/texmf-dist/tex/latex/ushort/ushort.s
-ty
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/ibygrk/iby4extr.tex (/usr/loc
+al/texlive/2021/texmf-dist/tex/generic/ibygrk/version4.tex Ibycus Greek. Versio
+n 4. 15 July 1997))) (/usr/local/texlive/2021/texmf-dist/tex/latex/ushort/ushor
+t.sty
 ushort.sty by M. Vaeth: Release: 2.2 
 Package: ushort 2001/06/13 v2.2
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -656,8 +681,8 @@ Package graphics Info: Driver file: dvips.def on input line 105.
 )
 \Gin@req@height=\dimen185
 \Gin@req@width=\dimen186
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht) (/usr/local/texlive/2021/texmf-dist/tex/lat
-ex/hyperref/hyperref.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht) (/
+usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
 (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -685,8 +710,10 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
@@ -718,7 +745,8 @@ LaTeX Info: Redefining \url on input line 4804.
 (/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count324
 \Field@Width=\dimen189
@@ -734,7 +762,8 @@ Package hyperref Info: PDF/A mode OFF on input line 6105.
 LaTeX Info: Redefining \ref on input line 6145.
 LaTeX Info: Redefining \pageref on input line 6149.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
 with kernel methods
 )
 \Hy@abspage=\count325
@@ -750,30 +779,37 @@ Package hyperref Info: tex4ht is already loaded.
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count326
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 157.
-Including MathFactsList.defs) (./Resources/LaTeXInputs/HAFiscal.sty (./Resources/owner.tex) (/usr/local/texlive/2021/tex
-mf-dist/tex/latex/datetime2/datetime2.sty
+Including MathFactsList.defs) (./Resources/LaTeXInputs/HAFiscal.sty (./Resource
+s/owner.tex) (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime2/datetime2.
+sty
 Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
 (/usr/local/texlive/2021/texmf-dist/tex/latex/tracklang/tracklang.sty
 Package: tracklang 2020/06/30 v1.5 (NLCT) Track Languages
-(/usr/local/texlive/2021/texmf-dist/tex/generic/tracklang/tracklang.tex)) (/usr/local/texlive/2021/texmf-dist/tex/latex/
-xkeyval/xkeyval.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/tracklang/tracklang.tex)) (/usr
+/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkey
-val/xkvutils.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local
+/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks36
 \XKV@tempa@toks=\toks37
 )
 \XKV@depth=\count327
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime2-english/datetime2-english.ldf
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/datetime2-english/datetime2-engli
+sh.ldf
 File: datetime2-english.ldf 2019/10/21 v1.05 (NLCT)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/datetime2-english/datetime2-english-base.ldf
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/datetime2-english/datetime2-engli
+sh-base.ldf
 File: datetime2-english-base.ldf 2019/10/21 v1.05 (NLCT)
 ))) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/xrhyper-hooks.4ht
 version 2020-10-17-13:53
@@ -798,14 +834,16 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
-)) (./Resources/texmf-local/tex/latex/econark.sty) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+)) (./Resources/texmf-local/tex/latex/econark.sty) (/usr/local/texlive/2021/tex
+mf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks40
 \inpenc@posthook=\toks41
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/sectsty/sectsty.sty
-Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
 
 LaTeX Warning: Command \underbar  has changed.
                Check if current package is valid.
@@ -824,14 +862,15 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 (scrartcl)              user interface, e.g., \chapterlinesformat,
 (scrartcl)              \RedeclareSectionCommand etc. or you should ask
 (scrartcl)              the `sectsty' maintainer for a more compatible release.
+
 (scrartcl)              Ignoring this warning could result in several error
 (scrartcl)              messages and formatting issues after loading package
 (scrartcl)              `sectsty' on input line 33.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/caption-hooks.4ht) (/usr/local/texlive/2021/texmf-dist/tex/late
-x/caption/caption.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/caption-hooks.4ht) (/u
+sr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
@@ -844,7 +883,8 @@ Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \caption@hangindent=\dimen198
 Package caption Info: KOMA-Script document class detected.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption-koma.sto
-File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the KOMA-Script document classes (AR)
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
+KOMA-Script document classes (AR)
 ))
 \c@caption@flags=\count330
 \c@continuedfloat=\count331
@@ -864,7 +904,8 @@ Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
 \c@subfigure=\count332
 \c@subtable=\count333
 ) (./Resources/LaTeXInputs/pdfsuppressruntime.sty
-pdfTeX warning (\pdftrailerid): not allowed in DVI mode (\pdfoutput <= 0); ignoring it
+pdfTeX warning (\pdftrailerid): not allowed in DVI mode (\pdfoutput <= 0); igno
+ring it
 )
 
 Package array Warning: Column d is already defined on input line 50.
@@ -880,16 +921,18 @@ Type  H <return>  for immediate help.
 l.26 
      
 The package hyperref has already been loaded with options:
-  [tex4ht,tex4ht,hypertexnames=false,verbose,unicode=true,unicode=true,unicode=true]
+  [tex4ht,tex4ht,hypertexnames=false,verbose,unicode=true,unicode=true,unicode=
+true]
 There has now been an attempt to load it with options
   [destlabel=true]
 Adding the global options:
-  tex4ht,tex4ht,hypertexnames=false,verbose,unicode=true,unicode=true,unicode=true,destlabel=true
+  tex4ht,tex4ht,hypertexnames=false,verbose,unicode=true,unicode=true,unicode=t
+rue,destlabel=true
 to your \documentclass declaration may fix this.
 Try typing  <return>  to proceed.
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht) (./HAFiscal.cfg (/usr/local/texlive/2021/texm
-f-dist/tex/generic/tex4ht/tex4ht.4ht
+(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht) (./H
+AFiscal.cfg (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
 version 2020-03-12-14:03
 --------------------------------------
 --- Note --- for additional information, use the command line option `info'
@@ -915,10 +958,12 @@ version 2021-03-06-13:30
 (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 --------------------------------------
---- Note --- to remove the <?xml version=...?> processing instruction use the command line option `no-VERSION'
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
 --------------------------------------
 --------------------------------------
---- Note --- to remove the DOCTYPE declaration use the command line option `no-DOCTYPE'
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
 --------------------------------------
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -931,6 +976,7 @@ version 2021-02-14-13:56
 )
 --------------------------------------
 --- Note --- for marking of the base font, use the command line option `fonts+'
+
 --------------------------------------
 --------------------------------------
 --- Note --- for non active _, use the command line option `no_'
@@ -947,26 +993,32 @@ version 2021-02-14-13:56
 (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 --------------------------------------
---- Note --- to ignore CSS font decoration, use the `NoFonts' command line option
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
 --------------------------------------
 --------------------------------------
---- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (Character bitmaps are controled only by `g
-' records of tex4ht.env and `-g' switches of tex4ht.c) 
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
 --------------------------------------
 --------------------------------------
---- Note --- for gif bitmaps of pictures, use the `gif' command line option. (Character bitmaps are controled only by `g
-' records of tex4ht.env and `-g' switches of tex4ht.c) 
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
 --------------------------------------
 --------------------------------------
---- Note --- for content and toc in 2 frames, use the command line option `frames'
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
 --------------------------------------
 --------------------------------------
---- Note --- for content, toc, and footnotes in 3 frames, use the command line option `frames-fn'
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
 --------------------------------------
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
 --------------------------------------
-TeX4ht package options: svg,charset=utf-8,html5,html,charset="latin1",p-width,pic-align,pic-tabular
+TeX4ht package options: svg,charset=utf-8,html5,html,charset="latin1",p-width,p
+ic-align,pic-tabular
 --------------------------------------
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
@@ -978,9 +1030,11 @@ TeX4ht package options: svg,charset=utf-8,html5,html,charset="latin1",p-width,pi
 --------------------------------------
 --------------------------------------
 --- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
 --------------------------------------
 --------------------------------------
---- Note --- for addressing images in a subdirectory, use the command line option `imgdir:.../'
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
 --------------------------------------
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -989,7 +1043,8 @@ version 2021-01-30-14:17
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/svg-option.4ht
 version 2018-12-30-09:33
 --------------------------------------
---- Note --- for external SVG files try the command line options `svg-obj' and 'svg-'
+--- Note --- for external SVG files try the command line options `svg-obj' and 
+'svg-'
 --------------------------------------
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
@@ -1004,6 +1059,7 @@ version 2021-02-14-13:56
 --------------------------------------
 --------------------------------------
 --- Note --- for linear crosslinks of pages, use the command line option `next'
+
 --------------------------------------
 \openout15 = `HAFiscal.4ct'.
 
@@ -1029,7 +1085,8 @@ LaTeX Info: Redefining \! on input line 793.
 LaTeX Info: Redefining \: on input line 794.
 LaTeX Info: Redefining \> on input line 795.
 --------------------------------------
---- Note --- for links into captions, instead of float heads, use the command line option `refcaption'
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
 --------------------------------------
 (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
@@ -1044,13 +1101,16 @@ version 2021-02-14-13:56
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 --------------------------------------
---- Note --- For mini tocs immediately aftter the header use the command line option `minitoc<'
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
 --------------------------------------
 --------------------------------------
---- Note --- for enumerated list elements with valued data, use the command line option `enumerate+'
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
 --------------------------------------
 --------------------------------------
---- Note --- for enumerated list elements li's with value attributes, use the command line option `enumerate-'
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
 --------------------------------------
 --------------------------------------
 --- Note --- for CSS2 code, use the command line option `css2'
@@ -1060,12 +1120,14 @@ version 2021-03-06-13:31
 --------------------------------------
 --------------------------------------
 --- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
 --------------------------------------
 --------------------------------------
 --- Note --- for inline footnotes use command line option `fn-in'
 --------------------------------------
 --------------------------------------
---- Note --- for tracing of latex font commands, use the command line option `fonts'
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
 --------------------------------------
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1073,16 +1135,18 @@ version 2021-02-06-14:21
 version 2021-01-30-14:17
 --------------------------------------
 --- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
 --------------------------------------
 --------------------------------------
 --- Note --- for pictorial array, use the command line option `pic-array'
 --------------------------------------
 --------------------------------------
---- Note --- for pictorial $...$ environments, use the command line option `pic-m' (not recommended!!)
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
 --------------------------------------
 --------------------------------------
---- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use the command line option `pic-m+' (not safe
-!!)
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
 --------------------------------------
 --------------------------------------
 --- Note --- for pictorial array, use the command line option `pic-array'
@@ -1117,17 +1181,20 @@ version 2018-12-30-09:33
 version 2021-02-14-13:56
 )) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/scrartcl.4ht
 version 2018-10-20-15:45
-(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/article.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4h
-t/html4.4ht
+(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/article.4ht (/usr/local/
+texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 --------------------------------------
---- Note --- for automatic sectioning pagination, use the command line option `1', `2', `3', '4', '5', '6', or '7'
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
 --------------------------------------
 --------------------------------------
---- Note --- for files named derived from section titles, use the command line option `sec-filename'
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
 --------------------------------------
 --------------------------------------
---- Note --- for i-columns index, use the command line option `index=i' (e.g., index=2)
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
 --------------------------------------
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1147,8 +1214,8 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/babel.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4
-ht/html4.4ht
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/babel.4ht (/usr/local
+/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1296,8 +1363,8 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/multicol.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/t
-ex4ht/html4.4ht
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/multicol.4ht (/usr/lo
+cal/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1307,8 +1374,8 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/multirow.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/t
-ex4ht/html4.4ht
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/multirow.4ht (/usr/lo
+cal/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1357,8 +1424,8 @@ version 2018-12-30-09:33
 version 2021-02-14-13:56
 )) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/xcolor.4ht
 version 2019-04-09-10:06
-(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/color.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/
-html4.4ht
+(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/color.4ht (/usr/local/te
+xlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1378,8 +1445,8 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/color.4ht) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex
-4ht/dvips.4ht
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/color.4ht) (/usr/loca
+l/texlive/2021/texmf-dist/tex/generic/tex4ht/dvips.4ht
 version 2009-05-21-09:32
 (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
@@ -1457,6 +1524,7 @@ version 2009-05-21-09:32
 version 2021-03-06-13:31
 --------------------------------------
 --- Note --- for URL encoding within href use the command line option `url-enc'
+
 --------------------------------------
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1466,8 +1534,8 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/natbib.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/tex
-4ht/html4.4ht
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/natbib.4ht (/usr/loca
+l/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1513,16 +1581,17 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/graphics.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/t
-ex4ht/html4.4ht
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/graphics.4ht (/usr/lo
+cal/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 --------------------------------------
---- Note --- if included graphics are of degraded quality, try the command line options `graphics-num' or `graphics-'. T
-he `num' should provide the density of pixels in the bitmaps (e.g., 110). 
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
 --------------------------------------
 --------------------------------------
---- Note --- for key dimensions try the option `Gin-dim'; for key dimensions when bounding box is unavailable try `Gin-d
-im+'; neither is recommended
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
 --------------------------------------
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1594,8 +1663,8 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/texmf-local/tex/latex/subfiles.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4
-ht
+)) (/usr/local/texlive/texmf-local/tex/latex/subfiles.4ht (/usr/local/texlive/2
+021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1617,8 +1686,8 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/caption.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic/te
-x4ht/html4.4ht
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/caption.4ht (/usr/loc
+al/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1628,8 +1697,8 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/subcaption.4ht (/usr/local/texlive/2021/texmf-dist/tex/generic
-/tex4ht/html4.4ht
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/subcaption.4ht (/usr/
+local/texlive/2021/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2021-03-06-13:31
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2021-02-06-14:21
@@ -1667,7 +1736,8 @@ LaTeX Font Info:    ... okay on input line 81.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
 LaTeX Font Info:    ... okay on input line 81.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 81.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 81.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 81
+.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
@@ -1679,10 +1749,14 @@ LaTeX Font Info:    ... okay on input line 81.
 Package scrbase Info: activating english \contentsname on input line 81.
 Package scrbase Info: activating english \listfigurename on input line 81.
 Package scrbase Info: activating english \listtablename on input line 81.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
-File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translations/translations-basic-d
+ictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 81.
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 81.
 Package hyperref Info: Link coloring ON on input line 81.
 LaTeX Info: Redefining \ref on input line 81.
 LaTeX Info: Redefining \pageref on input line 81.
@@ -1697,8 +1771,8 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           before \begin{document} on input line 81.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht) (/usr/local/texlive/2021/texmf-dist/tex/latex
-/bookmark/bkm-dvips.def
+(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht) (/us
+r/local/texlive/2021/texmf-dist/tex/latex/bookmark/bkm-dvips.def
 File: bkm-dvips.def 2020-11-06 v1.29 bookmark driver for dvips (HO)
 \BKM@id=\count335
 ))
@@ -1706,21 +1780,25 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 --- file HAFiscal.css ---
 \c=\count336
-) (./Resources/LaTeXInputs/econtex_notinsubfile.tex) (./HAFiscal-titlepage.tex (./econtexRoot.texinput (./Resources/econ
-texPaths.tex))
+) (./Resources/LaTeXInputs/econtex_notinsubfile.tex) (./HAFiscal-titlepage.tex 
+(./econtexRoot.texinput (./Resources/econtexPaths.tex))
 LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 34.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 34
+.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 34.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 34
+.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
@@ -1728,13 +1806,15 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 \openout5 = `./Subfiles/Abstract.texinput'.
 
 (./Subfiles/Abstract.texinput)
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 59.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+9.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
-] [2]) (./HAFiscal-contents.texinput (./HAFiscal.4ct)) [3] (./Subfiles.texinput (./Subfiles/Intro.tex (./Subfiles/./econ
-texRoot.texinput (./Subfiles/../Resources/econtexPaths.tex))
+] [2]) (./HAFiscal-contents.texinput (./HAFiscal.4ct)) [3] (./Subfiles.texinput
+(./Subfiles/Intro.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/../Resourc
+es/econtexPaths.tex))
 --- file HAFiscal2.html ---
 --- file HAFiscal3.html ---
 --- file HAFiscal4.html ---
@@ -1746,7 +1826,8 @@ texRoot.texinput (./Subfiles/../Resources/econtexPaths.tex))
 [2
 
 
-] [3] [4] [5]) (./Subfiles/Model.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/../Resources/econtexPaths.tex)) [6]
+] [3] [4] [5]) (./Subfiles/Model.tex (./Subfiles/./econtexRoot.texinput (./Subf
+iles/../Resources/econtexPaths.tex)) [6]
 l. 13 Writing HAFiscal.idv[1] (HAFiscal0x.svg)
 l. 13 Writing HAFiscal.idv[2] (HAFiscal1x.svg)
 l. 13 Writing HAFiscal.idv[3] (HAFiscal2x.svg)
@@ -1820,7 +1901,8 @@ l. 83 Writing HAFiscal.idv[49] (HAFiscal48x.svg)
 l. 84 Writing HAFiscal.idv[50] (HAFiscal49x.svg)
 [11]
 l. 87 Writing HAFiscal.idv[51] (HAFiscal50x.svg)
-) (./Subfiles/Parameterization.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/../Resources/econtexPaths.tex))
+) (./Subfiles/Parameterization.tex (./Subfiles/./econtexRoot.texinput (./Subfil
+es/../Resources/econtexPaths.tex))
 --- file HAFiscal10.html ---
 l. 22 Writing HAFiscal.idv[52] (HAFiscal51x.svg)
 l. 22 Writing HAFiscal.idv[53] (HAFiscal52x.svg)
@@ -1834,16 +1916,20 @@ l. 22 Writing HAFiscal.idv[56] (HAFiscal55x.svg)
 ] [14
 
 ]
-l.28 --- TeX4ht warning --- File `"Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Figures/AggMPC_LotteryWin.xbb"' 
-not found ---
-l.28 --- TeX4ht warning --- Cannot determine size of graphic in "Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Fi
-gures/AggMPC_LotteryWin.xbb" (no BoundingBox) ---
-l. 28 --- needs --- Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Figures/AggMPC_LotteryWin.svg ---
-l.34 --- TeX4ht warning --- File `"Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Figures/LiquWealth_Distribution.
-xbb"' not found ---
-l.34 --- TeX4ht warning --- Cannot determine size of graphic in "Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Fi
-gures/LiquWealth_Distribution.xbb" (no BoundingBox) ---
-l. 34 --- needs --- Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Figures/LiquWealth_Distribution.svg ---
+l.28 --- TeX4ht warning --- File `"Subfiles/../Code/HA-Models/Target_AggMPCX_Li
+quWealth/Figures/AggMPC_LotteryWin.xbb"' not found ---
+l.28 --- TeX4ht warning --- Cannot determine size of graphic in "Subfiles/../Co
+de/HA-Models/Target_AggMPCX_LiquWealth/Figures/AggMPC_LotteryWin.xbb" (no Bound
+ingBox) ---
+l. 28 --- needs --- Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Figure
+s/AggMPC_LotteryWin.svg ---
+l.34 --- TeX4ht warning --- File `"Subfiles/../Code/HA-Models/Target_AggMPCX_Li
+quWealth/Figures/LiquWealth_Distribution.xbb"' not found ---
+l.34 --- TeX4ht warning --- Cannot determine size of graphic in "Subfiles/../Co
+de/HA-Models/Target_AggMPCX_LiquWealth/Figures/LiquWealth_Distribution.xbb" (no
+ BoundingBox) ---
+l. 34 --- needs --- Subfiles/../Code/HA-Models/Target_AggMPCX_LiquWealth/Figure
+s/LiquWealth_Distribution.svg ---
 [15
 
 ]
@@ -1952,14 +2038,16 @@ l. 242 Writing HAFiscal.idv[117] (HAFiscal116x.svg)
 l. 242 Writing HAFiscal.idv[118] (HAFiscal117x.svg)
 l. 244 Writing HAFiscal.idv[119] (HAFiscal118x.svg)
 l. 244 Writing HAFiscal.idv[120] (HAFiscal119x.svg)
-) (./Subfiles/Comparing-policies.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/../Resources/econtexPaths.tex)) [32
+) (./Subfiles/Comparing-policies.tex (./Subfiles/./econtexRoot.texinput (./Subf
+iles/../Resources/econtexPaths.tex)) [32
 
 
 
 ] [33] [34] [35
 
 ]
-l. 34 --- needs --- Subfiles/../Code/HA-Models/FromPandemicCode/Figures/recession_Check_relrecession.svg ---
+l. 34 --- needs --- Subfiles/../Code/HA-Models/FromPandemicCode/Figures/recessi
+on_Check_relrecession.svg ---
 [36
 
 ] [37
@@ -1967,7 +2055,8 @@ l. 34 --- needs --- Subfiles/../Code/HA-Models/FromPandemicCode/Figures/recessio
 ] [38
 
 ]
-l. 45 --- needs --- Code/HA-Models/FromPandemicCode/Figures/recession_UI_relrecession.svg ---
+l. 45 --- needs --- Code/HA-Models/FromPandemicCode/Figures/recession_UI_relrec
+ession.svg ---
 [39
 
 ] [40
@@ -1975,7 +2064,8 @@ l. 45 --- needs --- Code/HA-Models/FromPandemicCode/Figures/recession_UI_relrece
 ] [41
 
 ]
-l. 56 --- needs --- Code/HA-Models/FromPandemicCode/Figures/recession_taxcut_relrecession.svg ---
+l. 56 --- needs --- Code/HA-Models/FromPandemicCode/Figures/recession_taxcut_re
+lrecession.svg ---
 [42
 
 ]
@@ -1995,7 +2085,8 @@ l. 71 Writing HAFiscal.idv[128] (HAFiscal127x.svg)
 [44] [45
 
 ]
-l. 75 --- needs --- Code/HA-Models/FromPandemicCode/Figures/Cummulative_multipliers.svg ---
+l. 75 --- needs --- Code/HA-Models/FromPandemicCode/Figures/Cummulative_multipl
+iers.svg ---
 [46
 
 ] [47
@@ -2046,11 +2137,13 @@ l. 133 Writing HAFiscal.idv[151] (HAFiscal150x.svg)
 l. 133 Writing HAFiscal.idv[152] (HAFiscal151x.svg)
 [53] [54
 
-] (./Subfiles/../Code/HA-Models/FromPandemicCode/Tables/CRRA2_PVSame/welfare4.tex
+]
+(./Subfiles/../Code/HA-Models/FromPandemicCode/Tables/CRRA2_PVSame/welfare4.tex
 l. 1 Writing HAFiscal.idv[153] (HAFiscal152x.svg)
 ) [55
 
-]) (./Subfiles/Robustness.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/../Resources/econtexPaths.tex)) [56
+]) (./Subfiles/Robustness.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/..
+/Resources/econtexPaths.tex)) [56
 
 ]
 l. 17 Writing HAFiscal.idv[154] (HAFiscal153x.svg)
@@ -2207,9 +2300,11 @@ l. 224 Writing HAFiscal.idv[228] (HAFiscal227x.svg)
 l. 229 Writing HAFiscal.idv[229] (HAFiscal228x.svg)
 [84
 
-]) (./Subfiles/Conclusion.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/../Resources/econtexPaths.tex)) [85
+]) (./Subfiles/Conclusion.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/..
+/Resources/econtexPaths.tex)) [85
 
-])) [86] (./Subfiles/Appendix.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/../Resources/econtexPaths.tex))
+])) [86] (./Subfiles/Appendix.tex (./Subfiles/./econtexRoot.texinput (./Subfile
+s/../Resources/econtexPaths.tex))
 l. 19 Writing HAFiscal.idv[230] (HAFiscal229x.svg)
 l. 19 Writing HAFiscal.idv[231] (HAFiscal230x.svg)
 [87] [88
