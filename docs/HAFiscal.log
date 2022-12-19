@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  18 DEC 2022 18:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  18 DEC 2022 19:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1825,74 +1825,77 @@ es/econtexPaths.tex))
 
 ] [3] [4] [5]) (./Subfiles/Model.tex (./Subfiles/./econtexRoot.texinput (./Subf
 iles/../Resources/econtexPaths.tex)) [6]
-l. 14 Writing HAFiscal.idv[1] (HAFiscal0x.svg)
-l. 14 Writing HAFiscal.idv[2] (HAFiscal1x.svg)
-l. 14 Writing HAFiscal.idv[3] (HAFiscal2x.svg)
-l. 14 Writing HAFiscal.idv[4] (HAFiscal3x.svg)
-l. 14 Writing HAFiscal.idv[5] (HAFiscal4x.svg)
-l. 15 Writing HAFiscal.idv[6] (HAFiscal5x.svg)
-l. 18 Writing HAFiscal.idv[7] (HAFiscal6x.svg)
-l. 18 Writing HAFiscal.idv[8] (HAFiscal7x.svg)
-l. 18 Writing HAFiscal.idv[9] (HAFiscal8x.svg)
-l. 19 Writing HAFiscal.idv[10] (HAFiscal9x.svg)
-l. 22 Writing HAFiscal.idv[11] (HAFiscal10x.svg)
-l. 23 Writing HAFiscal.idv[12] (HAFiscal11x.svg)
-l. 26 Writing HAFiscal.idv[13] (HAFiscal12x.svg)
-l. 26 Writing HAFiscal.idv[14] (HAFiscal13x.svg)
-l. 26 Writing HAFiscal.idv[15] (HAFiscal14x.svg)
-l. 26 Writing HAFiscal.idv[16] (HAFiscal15x.svg)
-l. 26 Writing HAFiscal.idv[17] (HAFiscal16x.svg)
-l. 26 Writing HAFiscal.idv[18] (HAFiscal17x.svg)
-l. 27 Writing HAFiscal.idv[19] (HAFiscal18x.svg)
-l. 32 Writing HAFiscal.idv[20] (HAFiscal19x.svg)
-l. 32 Writing HAFiscal.idv[21] (HAFiscal20x.svg)
-l. 32 Writing HAFiscal.idv[22] (HAFiscal21x.svg)
-l. 32 Writing HAFiscal.idv[23] (HAFiscal22x.svg)
-l. 32 Writing HAFiscal.idv[24] (HAFiscal23x.svg)
+l. 13 Writing HAFiscal.idv[1] (HAFiscal0x.svg)
+l. 13 Writing HAFiscal.idv[2] (HAFiscal1x.svg)
+l. 13 Writing HAFiscal.idv[3] (HAFiscal2x.svg)
+l. 13 Writing HAFiscal.idv[4] (HAFiscal3x.svg)
+l. 13 Writing HAFiscal.idv[5] (HAFiscal4x.svg)
+\openout5 = `./Equations/splurge.tex'.
+
+(./Equations/splurge.tex
+l. 1 Writing HAFiscal.idv[6] (HAFiscal5x.svg)
+)
+l. 20 Writing HAFiscal.idv[7] (HAFiscal6x.svg)
+l. 20 Writing HAFiscal.idv[8] (HAFiscal7x.svg)
+l. 20 Writing HAFiscal.idv[9] (HAFiscal8x.svg)
+l. 21 Writing HAFiscal.idv[10] (HAFiscal9x.svg)
+l. 24 Writing HAFiscal.idv[11] (HAFiscal10x.svg)
+l. 25 Writing HAFiscal.idv[12] (HAFiscal11x.svg)
+l. 28 Writing HAFiscal.idv[13] (HAFiscal12x.svg)
+l. 28 Writing HAFiscal.idv[14] (HAFiscal13x.svg)
+l. 28 Writing HAFiscal.idv[15] (HAFiscal14x.svg)
+l. 28 Writing HAFiscal.idv[16] (HAFiscal15x.svg)
+l. 28 Writing HAFiscal.idv[17] (HAFiscal16x.svg)
+l. 28 Writing HAFiscal.idv[18] (HAFiscal17x.svg)
+l. 29 Writing HAFiscal.idv[19] (HAFiscal18x.svg)
+l. 34 Writing HAFiscal.idv[20] (HAFiscal19x.svg)
+l. 34 Writing HAFiscal.idv[21] (HAFiscal20x.svg)
+l. 34 Writing HAFiscal.idv[22] (HAFiscal21x.svg)
+l. 34 Writing HAFiscal.idv[23] (HAFiscal22x.svg)
+l. 34 Writing HAFiscal.idv[24] (HAFiscal23x.svg)
 [7]
-l. 37 Writing HAFiscal.idv[25] (HAFiscal24x.svg)
-l. 40 Writing HAFiscal.idv[26] (HAFiscal25x.svg)
-l. 40 Writing HAFiscal.idv[27] (HAFiscal26x.svg)
-l. 40 Writing HAFiscal.idv[28] (HAFiscal27x.svg)
+l. 39 Writing HAFiscal.idv[25] (HAFiscal24x.svg)
+l. 42 Writing HAFiscal.idv[26] (HAFiscal25x.svg)
+l. 42 Writing HAFiscal.idv[27] (HAFiscal26x.svg)
+l. 42 Writing HAFiscal.idv[28] (HAFiscal27x.svg)
 --- file HAFiscal5.html ---
-l. 40 Writing HAFiscal.idv[29] (HAFiscal28x.svg)
-l. 40 Writing HAFiscal.idv[30] (HAFiscal29x.svg)
-l. 40 Writing HAFiscal.idv[31] (HAFiscal30x.svg)
-l. 42 Writing HAFiscal.idv[32] (HAFiscal31x.svg)
-l. 43 Writing HAFiscal.idv[33] (HAFiscal32x.svg)
-l. 50 Writing HAFiscal.idv[34] (HAFiscal33x.svg)
-l. 50 Writing HAFiscal.idv[35] (HAFiscal34x.svg)
-l. 50 Writing HAFiscal.idv[36] (HAFiscal35x.svg)
-l. 50 Writing HAFiscal.idv[37] (HAFiscal36x.svg)
-l. 52 Writing HAFiscal.idv[38] (HAFiscal37x.svg)
-l. 52 Writing HAFiscal.idv[39] (HAFiscal38x.svg)
+l. 42 Writing HAFiscal.idv[29] (HAFiscal28x.svg)
+l. 42 Writing HAFiscal.idv[30] (HAFiscal29x.svg)
+l. 42 Writing HAFiscal.idv[31] (HAFiscal30x.svg)
+l. 44 Writing HAFiscal.idv[32] (HAFiscal31x.svg)
+l. 45 Writing HAFiscal.idv[33] (HAFiscal32x.svg)
+l. 52 Writing HAFiscal.idv[34] (HAFiscal33x.svg)
+l. 52 Writing HAFiscal.idv[35] (HAFiscal34x.svg)
+l. 52 Writing HAFiscal.idv[36] (HAFiscal35x.svg)
+l. 52 Writing HAFiscal.idv[37] (HAFiscal36x.svg)
+l. 54 Writing HAFiscal.idv[38] (HAFiscal37x.svg)
+l. 54 Writing HAFiscal.idv[39] (HAFiscal38x.svg)
 --- file HAFiscal6.html ---
-l. 52 Writing HAFiscal.idv[40] (HAFiscal39x.svg)
-l. 52 Writing HAFiscal.idv[41] (HAFiscal40x.svg)
-l. 52 Writing HAFiscal.idv[42] (HAFiscal41x.svg)
-l. 52 Writing HAFiscal.idv[43] (HAFiscal42x.svg)
-l. 52 Writing HAFiscal.idv[44] (HAFiscal43x.svg)
-l. 52 Writing HAFiscal.idv[45] (HAFiscal44x.svg)
-l. 52 Writing HAFiscal.idv[46] (HAFiscal45x.svg)
+l. 54 Writing HAFiscal.idv[40] (HAFiscal39x.svg)
+l. 54 Writing HAFiscal.idv[41] (HAFiscal40x.svg)
+l. 54 Writing HAFiscal.idv[42] (HAFiscal41x.svg)
+l. 54 Writing HAFiscal.idv[43] (HAFiscal42x.svg)
+l. 54 Writing HAFiscal.idv[44] (HAFiscal43x.svg)
+l. 54 Writing HAFiscal.idv[45] (HAFiscal44x.svg)
+l. 54 Writing HAFiscal.idv[46] (HAFiscal45x.svg)
 [8
+
 
 ]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 58.
-[9
-
-]
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 60.
+[9]
 --- file HAFiscal7.html ---
 --- file HAFiscal8.html ---
 [10
 
 
 ]
-l. 75 Writing HAFiscal.idv[47] (HAFiscal46x.svg)
-l. 81 Writing HAFiscal.idv[48] (HAFiscal47x.svg)
-l. 81 Writing HAFiscal.idv[49] (HAFiscal48x.svg)
-l. 82 Writing HAFiscal.idv[50] (HAFiscal49x.svg)
-l. 85 Writing HAFiscal.idv[51] (HAFiscal50x.svg)
+l. 77 Writing HAFiscal.idv[47] (HAFiscal46x.svg)
+l. 83 Writing HAFiscal.idv[48] (HAFiscal47x.svg)
+l. 83 Writing HAFiscal.idv[49] (HAFiscal48x.svg)
+l. 84 Writing HAFiscal.idv[50] (HAFiscal49x.svg)
+l. 87 Writing HAFiscal.idv[51] (HAFiscal50x.svg)
 ) (./Subfiles/Parameterization.tex (./Subfiles/./econtexRoot.texinput (./Subfil
 es/../Resources/econtexPaths.tex)) [11]
 --- file HAFiscal9.html ---
@@ -2323,12 +2326,12 @@ bibliography{./Add-Refs,./HAFiscal,system}
 Dependency list written on HAFiscal.dep.
  ) 
 Here is how much of TeX's memory you used:
- 29457 strings out of 478995
- 523564 string characters out of 5858210
- 1043252 words of memory out of 5000000
- 45723 multiletter control sequences out of 15000+600000
+ 29460 strings out of 478995
+ 523622 string characters out of 5858210
+ 1043245 words of memory out of 5000000
+ 45721 multiletter control sequences out of 15000+600000
  433342 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,20n,152p,11110b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on HAFiscal.dvi (98 pages, 326180 bytes).
+Output written on HAFiscal.dvi (98 pages, 325692 bytes).
